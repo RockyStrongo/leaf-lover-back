@@ -1,0 +1,2383 @@
+{
+    "plantsData": [
+        {
+            "plant": {
+                "id": 2905,
+                "common_name": "Joe-pyeweed",
+                "scientific_name": [
+                    "Eutrochium fistulosum"
+                ],
+                "other_name": [],
+                "family": "Asteraceae",
+                "origin": [
+                    "Eastern North America"
+                ],
+                "type": "Herb",
+                "dimension": "4.00 to 7.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 4,
+                    "max_value": 7,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Division",
+                    "Seed Propagation",
+                    "Cutting",
+                    "Layering Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2905&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2905&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Frequent",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "purple"
+                        ]
+                    },
+                    {
+                        "part": "stem",
+                        "color": [
+                            "purple",
+                            "violet"
+                        ]
+                    },
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2905&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Dusky rose",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Joe-pyeweed (Eutrochium fistulosum) is an amazing, hardy plant species that can thrive in most soil and climate conditions. It's deep green leaves and bright white flowers make a beautiful addition to any garden. It is also known for its tolerance of drought and its ability to repel deer and other unwanted pests. Joe-pyeweed requires minimal care, making it a great choice for beginner gardeners. Its fragrant flowers attract a wide range of beneficial insects, such as bees and butterflies, and provide nectar for birds. With its versatility, hardiness, and wild beauty, Joe-peyweed is sure to be a welcome addition to any garden.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2905_eutrochium_fistulosum/og/51378831029_4978175742_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2905_eutrochium_fistulosum/regular/51378831029_4978175742_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2905_eutrochium_fistulosum/medium/51378831029_4978175742_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2905_eutrochium_fistulosum/small/51378831029_4978175742_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2905_eutrochium_fistulosum/thumbnail/51378831029_4978175742_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 11996,
+                    "type": "watering",
+                    "description": "Joe-pyeweed should be watered regularly. Aim for every other day to keep the soil evenly moist. To check if your Joe-pyeweed needs water, stick your finger in the soil up to the first knuckle. If the soil is dry then it's time to water. Make sure you water at the base of the plant, avoiding the leaves and flowers, to avoid diseases and pests. Water until the soil is moist but not soggy. Joe-pyeweed does not enjoy standing water, so be sure to empty any excess out of the drainage tray. Additionally, during the summer months, you may need to water your Joe-pyeweed more often, as the warmer temperatures can cause the water to evaporate faster."
+                },
+                {
+                    "id": 11997,
+                    "type": "sunlight",
+                    "description": "Joe-pyeweed plants need full sun to partial shade, preferably 5 to 6 hours of sunlight daily. This plant grows best in moist to wet soils and can tolerate both standing water and drought. Joe-pyeweed blooms in the summer season with pale to pale lavender flowers that attract butterflies and other pollinators. When planted in ideal conditions, Joe-pyeweed will bloom for most of the summer season. It is a fast-growing, clumping perennial that can reach a height of 4 feet and spread anywhere from 1 to 3 feet wide."
+                },
+                {
+                    "id": 11998,
+                    "type": "pruning",
+                    "description": "Joe-pyeweed should be pruned in late winter to early spring. To maintain a tidy appearance, cut off any dead or leggy stems. If the foliage becomes too dense, remove up to 1-third of the stems at the soil line. This will encourage bushier growth and more abundant flowers. A light, annual pruning can help to extend the season of bloom. Be sure not to prune too severely, however, as this plant blooms on old wood."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2906,
+                "common_name": "Joe Pye weed",
+                "scientific_name": [
+                    "Eutrochium fistulosum 'Atropurpurea'"
+                ],
+                "other_name": [],
+                "family": "Asteraceae",
+                "origin": [
+                    "United States",
+                    "Canada"
+                ],
+                "type": "Herb",
+                "dimension": "4.00 to 7.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 4,
+                    "max_value": 7,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Division",
+                    "Root Cutting",
+                    "Seed Propagation",
+                    "Layering Propagation"
+                ],
+                "hardiness": {
+                    "min": "3",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2906&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2906&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Frequent",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "2"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2906&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Rose-purple",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "purple",
+                    "maroon"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Joe Pye weed (Eutrochium fistulosum 'Atropurpurea') is an amazing plant species with a variety of uses. It has massive, dark purplish-pink flower heads that attract numerous species of butterflies and bees, making it perfect for wildlife gardens. Its large stature adds beauty and drama to gardens and can be grown in many soil types. Joe Pye weed medicinal benefits make it a valuable herb for herbalists, as it is beneficial for the respiratory system and is a gentle diuretic. Finally, the tall flower stems are perfect for adding to floral arrangements. Joe Pye weed is an incredible species that offers so much beauty, wildlife and health benefits.",
+                "default_image": {
+                    "license": 44,
+                    "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2906_eutrochium_fistulosum_atropurpurea/og/24e1464dec304deca87daa3ce3bee98cc3fdb7b3.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2906_eutrochium_fistulosum_atropurpurea/regular/24e1464dec304deca87daa3ce3bee98cc3fdb7b3.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2906_eutrochium_fistulosum_atropurpurea/medium/24e1464dec304deca87daa3ce3bee98cc3fdb7b3.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2906_eutrochium_fistulosum_atropurpurea/small/24e1464dec304deca87daa3ce3bee98cc3fdb7b3.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2906_eutrochium_fistulosum_atropurpurea/thumbnail/24e1464dec304deca87daa3ce3bee98cc3fdb7b3.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 11999,
+                    "type": "watering",
+                    "description": "Joe Pye weed should be watered regularly in order to keep the soil moist, but not soggy or flooded. Water the soil deeply, saturating it 3-4 times per week, but allow the top 2 inches of soil to dry out slightly between each watering. In warmer months, watering every other day may be necessary as temperatures and soil dry out quickly. In cooler months, watering only once or twice per week is usually enough to sustain the plant. Be sure to avoid splashing water around the plant, which can cause disease."
+                },
+                {
+                    "id": 12000,
+                    "type": "sunlight",
+                    "description": "Joe Pye weed typically prefers full sun and will perform best with 6 to 8 hours of direct sunlight per day. However, it can also tolerate partial shade, particularly during the hottest parts of the day, such as late afternoon when temperatures are highest. When planting Joe Pye weed, it is important to note that it will still require ample amounts of direct sunlight to reach its fullest potential in terms of size and flowering. It is recommended that when planting this species, locations should have at least 4-5 hours of direct sunlight per day."
+                },
+                {
+                    "id": 12001,
+                    "type": "pruning",
+                    "description": "Joe Pye weed should be pruned in late winter or early spring, when the weather is still mild. This will help promote new growth and keep the plant looking healthy. Prune out any dead, damaged, or diseased stems, as well as any stems that are weak or spindly. Also, prune any stems that are growing in crowded areas or that are blocking sunlight from the other stems. Removing spent flower stalks will also help to encourage new growth and keep the plant looking neat and tidy. Try to take only as much as necessary when pruning the Joe Pye Weed, so the plant can continue to thrive."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2907,
+                "common_name": "Joe Pye weed",
+                "scientific_name": [
+                    "Eutrochium maculatum"
+                ],
+                "other_name": [],
+                "family": "Asteraceae",
+                "origin": [
+                    "North America"
+                ],
+                "type": "Herb",
+                "dimension": "4.00 to 7.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 4,
+                    "max_value": 7,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Division",
+                    "Root Cutting",
+                    "Seed Propagation",
+                    "Layering Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2907&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2907&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Frequent",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "3"
+                },
+                "volume_water_requirement": [],
+                "watering_period": "night",
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "fern",
+                        "color": [
+                            "purple-colored"
+                        ]
+                    },
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "purple-colored"
+                        ]
+                    },
+                    {
+                        "part": "stem",
+                        "color": [
+                            "violet"
+                        ]
+                    },
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun"
+                ],
+                "pruning_month": [
+                    "August",
+                    "August"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2907&key=sk-s2Yp6566120c66d243170",
+                "soil": [
+                    "Sandy Loamy Clay Humus"
+                ],
+                "growth_rate": "High",
+                "drought_tolerant": true,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Purple-pink",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Joe Pye weed is a species of plant that is native to wetlands in North America. It is a tall plant, growing up to seven feet tall. Its unique purple and pink flowers attract an array of butterflies and other pollinators. Joe Pye weed is a great addition to any garden, since it attracts a lot of wildlife. It can also aid in erosion control, due to its deep roots. Plus, its fragrant, dried flowers can be used to make tea! Joe Pye weed is such an amazing plant and a helpful addition to any garden.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2907_eutrochium_maculatum/og/52553719948_2cefc90094_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2907_eutrochium_maculatum/regular/52553719948_2cefc90094_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2907_eutrochium_maculatum/medium/52553719948_2cefc90094_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2907_eutrochium_maculatum/small/52553719948_2cefc90094_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2907_eutrochium_maculatum/thumbnail/52553719948_2cefc90094_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12002,
+                    "type": "watering",
+                    "description": "Joe Pye Weed should be watered deeply and infrequently. Aim to water the plant deeply and thoroughly once a week in summer -- 2-3 inches of water each time -- and less frequently in the cooler months, when the plants become dormant. Soil should be allowed to dry out between waterings. Do not water during wet periods or very cold nights."
+                },
+                {
+                    "id": 12003,
+                    "type": "sunlight",
+                    "description": "Joe Pye weed typically prefers to grow in full sun, meaning it needs at least 6 hours of direct sunlight each day. However, it can also tolerate some partial shade, provided it receives at least 3-4 hours of sunlight. The species does best in areas that receive direct sunlight in the morning, followed by some partial shade in the afternoon. If the plant receives too much sun, it may become wilted and stressed, so try to avoid overly sunny spots."
+                },
+                {
+                    "id": 12004,
+                    "type": "pruning",
+                    "description": "Joe Pye weed is best pruned during the early stages of growth in order to promote bushier growth. This can be done by removing up to 1-third of the plant's height to promote new and evener growth. Pruning should take place prior to late summer for optimal results. This is due to the fact that pruning cuts need time to heal before temperatures begin to drop significantly. Additionally, if severe pruning (removing more than 1-third of the plant) takes place after late summer, it could have an adverse effect on flower production in the following year."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2908,
+                "common_name": "Joe Pye weed",
+                "scientific_name": [
+                    "Eutrochium maculatum 'Gateway'"
+                ],
+                "other_name": [],
+                "family": "Asteraceae",
+                "origin": [
+                    "United States"
+                ],
+                "type": "Herb",
+                "dimension": "4.00 to 5.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 4,
+                    "max_value": 5,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Division",
+                    "Root Cutting",
+                    "Seed Propagation",
+                    "Layering Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2908&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2908&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Frequent",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun"
+                ],
+                "pruning_month": [
+                    "March",
+                    "April"
+                ],
+                "pruning_count": {
+                    "amount": 1,
+                    "interval": "yearly"
+                },
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2908&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": true,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": null,
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Mauve/pink",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "purple"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Joe Pye weed (Eutrochium maculatum 'Gateway') is a truly remarkable plant. It has lush green leaves, beautiful pink to purple flowers, and can grow between 3-8 feet tall. This plant is attractive to many pollinators including butterflies and bees, making it beneficial to many gardens. The flower heads of joe pye weed only stay open for a few brief days before wilting, giving off an intense fragrance. It thrives in sunny and moist areas and can easily be grown and transported. Overall, Joe Pye weed is an amazing plant due to its beauty, size, and its positive benefits to the environment.",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2908_eutrochium_maculatum_gateway/og/2560px-Eutrochium_maculatum_kz2.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2908_eutrochium_maculatum_gateway/regular/2560px-Eutrochium_maculatum_kz2.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2908_eutrochium_maculatum_gateway/medium/2560px-Eutrochium_maculatum_kz2.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2908_eutrochium_maculatum_gateway/small/2560px-Eutrochium_maculatum_kz2.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2908_eutrochium_maculatum_gateway/thumbnail/2560px-Eutrochium_maculatum_kz2.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2909,
+                "common_name": "Joe Pye weed",
+                "scientific_name": [
+                    "Eutrochium purpureum"
+                ],
+                "other_name": [],
+                "family": "Asteraceae",
+                "origin": [
+                    "Eastern and central North America"
+                ],
+                "type": "Herb",
+                "dimension": "5.00 to 7.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 5,
+                    "max_value": 7,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "9"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2909&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2909&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "colored",
+                            "purple-violet"
+                        ]
+                    },
+                    {
+                        "part": "fern",
+                        "color": [
+                            "colored"
+                        ]
+                    },
+                    {
+                        "part": "stem",
+                        "color": [
+                            "purple"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "violet"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September",
+                    "August",
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 1,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2909&key=sk-s2Yp6566120c66d243170",
+                "soil": [
+                    "Alkaline",
+                    " Rocky ",
+                    " gravelly ",
+                    " dry",
+                    " Well-drained"
+                ],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [
+                    "Mildew",
+                    " Rust",
+                    "  Pest resistant",
+                    " Deer resistant "
+                ],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Mauve pink",
+                "cones": false,
+                "fruits": true,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [
+                    "brown",
+                    "tan"
+                ],
+                "harvest_season": "Fall",
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Joe Pye weed is a hardy flower that offers both ornamental value and practical natural uses. With a range of sizes and colors, depending on the species, these perennial plants are a must have for any garden. Its fragrant flowers attract both hummingbirds and butterflies, which makes for a beautiful display in sun or partial shade. It can form large clumps, with mauve or soft pink flowers standing tall above the foliage. It's also a great natural mosquito repellent and its leaves can be steeped to create a natural remedy for colds.",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2909_eutrochium_purpureum/og/20510873228_aefd132807_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2909_eutrochium_purpureum/regular/20510873228_aefd132807_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2909_eutrochium_purpureum/medium/20510873228_aefd132807_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2909_eutrochium_purpureum/small/20510873228_aefd132807_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2909_eutrochium_purpureum/thumbnail/20510873228_aefd132807_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12008,
+                    "type": "watering",
+                    "description": "Joe Pye weed prefers consistently moist soil and should be watered regularly. It's best to water the plants deeply, making sure the entire root zone is moist, but not soggy. During the warmer months, the plants should be watered once or twice a week, depending on the amount of rainfall and the amount of direct sun the plant receives. During cooler periods, water the plants only when the top inch or 2 of soil begins to dry out. When the plants are actively growing, they may require more frequent watering. It's best to allow the soil to dry out slightly between each watering."
+                },
+                {
+                    "id": 12009,
+                    "type": "sunlight",
+                    "description": "Joe Pye weed performs best when grown in an area that receives at least 6 to 8 hours of direct sunlight each day. The plants also prefer moist, well drained soil on the acidic side (pH 6.0-7.0). If soil conditions or light levels become less than optimal, Joe Pye weed may start to become stressed. Too much sun exposure, with temperatures above 90°F (32°C), may cause leaves to curl and flowerheads to become dry and brittle."
+                },
+                {
+                    "id": 12010,
+                    "type": "pruning",
+                    "description": "Joe Pye weed should be pruned at the end of the growing season. This typically happens in late summer or early fall. During this time, it is best to cut the stalks of the Joe Pye weed back to ground level. This pruning helps to stimulate new growth and promote a healthier, more full and productive plant. It also helps to get rid of damaged or dead stalks. After the initial pruning, some light maintenance pruning may be needed for the next several months in order to keep the plants shape and size. It is important to take care not to over-prune Joe Pye weed as it can be susceptible to damage if trimmed too much."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2910,
+                "common_name": "Joe Pye weed",
+                "scientific_name": [
+                    "Eutrochium purpureum 'FLOREUPRE1' EUPHORIA RUBY"
+                ],
+                "other_name": [],
+                "family": "Asteraceae",
+                "origin": [
+                    "United States"
+                ],
+                "type": "Herb",
+                "dimension": "2.00 to 2.75 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 2,
+                    "max_value": 2.75,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Division",
+                    "Seed Propagation",
+                    "Cutting"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "9"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2910&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2910&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "8"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "2-3",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "purple"
+                        ]
+                    },
+                    {
+                        "part": "buds",
+                        "color": [
+                            "purple"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "violet"
+                        ]
+                    },
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2910&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Red-purple",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "red",
+                    "purple",
+                    "ruby"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Joe Pye Weed (Eutrochium purpureum 'FLOREUPRE1' EUPHORIA RUBY) is a truly remarkable plant. It has dark, glossy, ruby-red stems and beautiful bright pink flowering heads, making it an eye catching addition to any garden. The leaves of this hardy perennial are large and vigorous, providing height and structure to the garden. The blooms attract a wide range of birds and beneficial pollinators to furnish a vibrant wildlife habitat. This tough and easy to maintain plant is perfect for gardeners of all levels of expertise. Joe Pye Weed is a stunning addition for growing in containers, beds, or borders to provide a pop of deep pink color to the garden.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2910_eutrochium_purpureum_floreupre1_euphoria_ruby/og/52553184506_252e1e572f_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2910_eutrochium_purpureum_floreupre1_euphoria_ruby/regular/52553184506_252e1e572f_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2910_eutrochium_purpureum_floreupre1_euphoria_ruby/medium/52553184506_252e1e572f_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2910_eutrochium_purpureum_floreupre1_euphoria_ruby/small/52553184506_252e1e572f_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2910_eutrochium_purpureum_floreupre1_euphoria_ruby/thumbnail/52553184506_252e1e572f_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12011,
+                    "type": "watering",
+                    "description": "Joe Pye Weed is a moisture-loving plant, so regular water is the key to keeping it healthy and happy. Water the plant regularly, making sure to moisten the soil to a depth of 6–8 inches (15–20 cm). During prolonged dry periods, you may need to water it more frequently. Aim to water it at least twice a week, and more often if the weather is hot or dry. In cooler climates, you can reduce waterings to once a week during the autumn and winter months. Because Joe Pye Weed prefers damp soil, you can mulch the soil lightly to conserve moisture."
+                },
+                {
+                    "id": 12012,
+                    "type": "sunlight",
+                    "description": "Joe Pye weed prefers full to partial sunlight, with at least 4 to 6 hours of direct sunlight each day. Ideally, the plant should receive morning sunlight and dappled shade in the afternoon. Keep in mind that too much sunlight can damage or kill the plant, so avoid direct afternoon sun during periods of high temperatures during the summer. If the plant is grown in a container, consider moving it to a shadier area or providing some sort of shade cover."
+                },
+                {
+                    "id": 12013,
+                    "type": "pruning",
+                    "description": "Joe Pye weed (Eutrochium purpureum 'FLOREUPRE1' EUPHORIA RUBY) should be pruned lightly in late winter or early spring. This will help promote bushier growth and will help encourage more flowering. It should also be deadheaded regularly during the growing season to help encourage rebloom. Pruning should be limited to just removing dead or damaged foliage and flower heads, as Joe Pye weed does best when it is left to become more shaggy and bushy. Avoid pruning back hard or cutting back into the woody stems as this can weaken the plant or encourage disease."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2911,
+                "common_name": "Joe Pye weed",
+                "scientific_name": [
+                    "Eutrochium purpureum 'Little Red'"
+                ],
+                "other_name": [],
+                "family": "Asteraceae",
+                "origin": [
+                    "North America",
+                    "Canada",
+                    "United States"
+                ],
+                "type": "Herb",
+                "dimension": "3.00 to 4.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 3,
+                    "max_value": 4,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Division",
+                    "Root Cutting",
+                    "Seed Propagation",
+                    "Layering Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2911&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2911&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "fern",
+                        "color": [
+                            "pink"
+                        ]
+                    },
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "pink"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "green"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2911&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Moderate",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Pink-purple",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "red",
+                    "purple"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Joe Pye weed (Eutrochium purpureum 'Little Red') is an incredible perennial plant that can add dynamic interest to any garden. Its deep purple flowers and bright green foliage make it an eye-catching addition, while its height, up to 6 feet, can be a great backdrop to any garden design. Its purple blossoms also attract butterflies and bees, which adds life to any garden. The even more amazing part is its drought and heat tolerance, making it a great choice for hot and dry summers. Its bright color also makes this a great choice for attracting birds to any garden. Joe Pye weed (Eutrochium purpureum 'Little Red') is truly an amazing plant to add to any garden!",
+                "default_image": {
+                    "license": 451,
+                    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2911_eutrochium_purpureum_little_red/og/joe_pye_weed_butterfly_flowers_yellow_pink_beautiful_nature_blossom-1098306.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2911_eutrochium_purpureum_little_red/regular/joe_pye_weed_butterfly_flowers_yellow_pink_beautiful_nature_blossom-1098306.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2911_eutrochium_purpureum_little_red/medium/joe_pye_weed_butterfly_flowers_yellow_pink_beautiful_nature_blossom-1098306.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2911_eutrochium_purpureum_little_red/small/joe_pye_weed_butterfly_flowers_yellow_pink_beautiful_nature_blossom-1098306.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2911_eutrochium_purpureum_little_red/thumbnail/joe_pye_weed_butterfly_flowers_yellow_pink_beautiful_nature_blossom-1098306.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12014,
+                    "type": "watering",
+                    "description": "Joe Pye weed is not especially demanding and should be watered on a regular basis throughout the growing season. A thorough watering once a week should be sufficient for most established plants. However, during periods of high temperatures and/or drought, watering it more frequently may be necessary. Make sure the soil is moist but not soggy. Joe Pye weed is tolerant of wet conditions, however, so too much fertilizer or watering can lead to root rot."
+                },
+                {
+                    "id": 12015,
+                    "type": "sunlight",
+                    "description": "Joe Pye weed prefers full sun and in most cases should get at least 6 hours of direct sunlight each day for optimal growth. This plant thrives in most soils and can tolerate partial shade, but will not flower or look as nice without full sun. During the warmer months, Joe Pye weed should get 8 to 10 hours of sunlight per day. In mid to late summer, the plant will need less sunlight - about 6 to 8 hours of direct sunlight per day."
+                },
+                {
+                    "id": 12016,
+                    "type": "pruning",
+                    "description": "Joe Pye Weed (Eutrochium purpureum 'Little Red') should be lightly pruned in late March or early April, before new growth begins. Cut down the stems of last season's growth to keep the plants looking tidy. This should be done at ground level or above, taking off only 1-half of the older growth and leaving some of the stems. Pruning will help keep the plants from becoming too tall, and it will also stimulate new growth, resulting in a bushier and fuller plant. Removing any dead stems at this time will also help to keep the plant looking full and vibrant."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2913,
+                "common_name": "evolvulus",
+                "scientific_name": [
+                    "Evolvulus glomeratus 'Hawaiian Blue Eyes'"
+                ],
+                "other_name": [],
+                "family": "Convolvulaceae",
+                "origin": [
+                    "India",
+                    "Sri Lanka",
+                    "Myanmar",
+                    "Thailand",
+                    "Vietnam",
+                    "Malaysia",
+                    "Indonesia",
+                    "Philippines",
+                    "Papua New Guinea",
+                    "Australia",
+                    "Solomon Islands",
+                    "Fiji",
+                    "Hawaii"
+                ],
+                "type": "Shrub",
+                "dimension": "0.75 to 1.50 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 0.75,
+                    "max_value": 1.5,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Stem Propagation",
+                    "Division",
+                    "Seed Propagation",
+                    "Layering Propagation"
+                ],
+                "hardiness": {
+                    "min": "8",
+                    "max": "11"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2913&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2913&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "2-3",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flower",
+                        "color": [
+                            "blue"
+                        ]
+                    },
+                    {
+                        "part": "stamens",
+                        "color": [
+                            "white"
+                        ]
+                    },
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun"
+                ],
+                "pruning_month": [
+                    "May",
+                    "June",
+                    "July"
+                ],
+                "pruning_count": {
+                    "amount": 1,
+                    "interval": "yearly"
+                },
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2913&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Moderate",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Blue",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "The Evolvulus glomeratus 'Hawaiian Blue Eyes' is an amazing plant species that is perfect for brightening up a garden or patio. The bright and cheerful flowers come in shades of blue, purple and white, and have a yellow eye in the centre. The flowers are held in large clusters, making it a great choice for adding colour and depth to gardens and container planting. The plant is also drought tolerant, meaning it can withstand periods of drought without too much water. As a bonus, the flowers are also attractive to butterflies and bees, making it a great addition to any eco-friendly garden.",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2913_evolvulus_glomeratus_hawaiian_blue_eyes/og/452084892_8ea6ed4939_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2913_evolvulus_glomeratus_hawaiian_blue_eyes/regular/452084892_8ea6ed4939_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2913_evolvulus_glomeratus_hawaiian_blue_eyes/medium/452084892_8ea6ed4939_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2913_evolvulus_glomeratus_hawaiian_blue_eyes/small/452084892_8ea6ed4939_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2913_evolvulus_glomeratus_hawaiian_blue_eyes/thumbnail/452084892_8ea6ed4939_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12017,
+                    "type": "watering",
+                    "description": "Evolvulus glomeratus 'Hawaiian Blue Eyes' should be watered regularly with light and evenly distributed watering. Water once a week and ensure that the top layer of soil is moist but not soaking wet. During the summer months, you may need to water more often, about every 4-5 days, to ensure the soil remains consistently moist. During the winter months and when the plant is not actively growing, water less often but be sure to not let the soil dry out completely. Feel the top of the soil and if it feels dry, give it a good soaking until water comes out of the drainage holes. Make sure to check the soil drying patterns in between regular waterings."
+                },
+                {
+                    "id": 12018,
+                    "type": "sunlight",
+                    "description": "Evolvulus glomeratus 'Hawaiian Blue Eyes' is a plant species that requires several hours of sunlight each day to thrive. It should be placed in an area that gets at least 6 hours of direct sunlight. Full sun is best, although some light shade is tolerated. Because of its heat tolerance, it is ideal for climates with hot summers. The best time of day to provide adequate sunlight to this plant species is during the morning and early afternoon when the sun is at its strongest. To ensure maximum flowering, keep it in full direct sunlight until mid-afternoon and then move it to a location with less intense sunlight for the rest of the day."
+                },
+                {
+                    "id": 12019,
+                    "type": "pruning",
+                    "description": "For Evolvulus glomeratus 'Hawaiian Blue Eyes', pruning should occur in the late spring and early summer when the plant is actively growing. Don't cut too much at once; aim for removing no more than 1-third of the plant's foliage at any given time. Also avoid cutting into the woody stems of the plant. Pruning will help keep the plant healthy and will help maintain its shape and size."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2915,
+                "common_name": "Persian violet",
+                "scientific_name": [
+                    "Exacum affine"
+                ],
+                "other_name": [],
+                "family": "Gentianaceae",
+                "origin": [
+                    "Yemen"
+                ],
+                "type": "Herb",
+                "dimension": "0.50 to 1.50 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 0.5,
+                    "max_value": 1.5,
+                    "unit": "feet"
+                },
+                "cycle": "Annual",
+                "attracts": [],
+                "propagation": [
+                    "Stem Propagation",
+                    "Leaf Cutting",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "10",
+                    "max": "12"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2915&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2915&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "part shade",
+                    "part sun/part shade"
+                ],
+                "pruning_month": [
+                    "May",
+                    "June",
+                    "July"
+                ],
+                "pruning_count": {
+                    "amount": 1,
+                    "interval": "yearly"
+                },
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2915&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": true,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Blue to deep purple",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "The Persian violet (Exacum affine) is truly a sight to behold. Its shimmering, bright purple flowers are contrasted against lush green foliage creating a stunning visual impact. Each delicate flower has an intricate, five-pointed star-like shape, further complemented by yellow-tinged white centers and a delicate fragrance. Adding to its enchantment, this low-growing, perennial plant is hardy and thrives in a variety of conditions. It's perfect for borders in both gardens and containers, and is an ideal choice for supplying continuous, pop-up colour to any landscape. Truly an amazing plant!",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2915_exacum_affine/og/21012737895_778fc9a6c0_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2915_exacum_affine/regular/21012737895_778fc9a6c0_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2915_exacum_affine/medium/21012737895_778fc9a6c0_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2915_exacum_affine/small/21012737895_778fc9a6c0_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2915_exacum_affine/thumbnail/21012737895_778fc9a6c0_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 2222,
+                    "type": "watering",
+                    "description": "Water Persian violets every 7 to 10 days, giving them enough to make the soil moist but not saturated or soggy. This should be about 1/2 cup of water every time. If the soil has already been saturated because of a heavy rainfall, it is best to wait for the soil to dry out before watering again. During the colder winter months, Persian violets may only need to be watered once every 10 days to 2 weeks."
+                },
+                {
+                    "id": 2228,
+                    "type": "sunlight",
+                    "description": "Persian violet (Exacum affine) requires bright, indirect sunlight for best growth. Ideally, it should receive 4-6 hours of filtered sunlight from a south or east-facing window each day. During the summer months, Persian violets can tolerate up to 8 hours of sunlight, but it should be filtered through a sheer curtain or indirect sunlight. Too much direct sunlight can burn or discolor the foliage and inhibit the flower growth. Make sure to avoid low light locations, as these can reduce the number of flower blooms the plant produces."
+                },
+                {
+                    "id": 2233,
+                    "type": "pruning",
+                    "description": "It is recommended to lightly prune a Persian violet (Exacum affine) once a year in late spring or early summer. It is best to only take off fading or diseased stems. To do this, use small pruning shears to make a clean cut, removing no more than 1/3 of the plant’s growth. Pruning too much can stunt the plant’s development, so it is important to be conservative when pruning."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2916,
+                "common_name": "pearlbush",
+                "scientific_name": [
+                    "Exochorda macrantha 'The Bride'"
+                ],
+                "other_name": [],
+                "family": "Rosaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "3.00 to 4.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 3,
+                    "max_value": 4,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2916&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2916&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "3"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September",
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2916&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Moderate",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": "Spring",
+                "flower_color": "White",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Pearlbush (Exochorda macrantha 'The Bride') is an amazing plant species that is both beautiful and hardy. It produces large clusters of creamy white flowers in late spring, which is sure to add vibrancy and color to any garden setting. The plant's evergreen foliage offers a continuous backdrop of interest, and it's strong, low-growing habit makes it an ideal candidate for borders and groundcover. The plant is very durable and is resistant to heat, humidity, salt, deer as well as drought, ensuring it will thrive in almost any environment. Pearlbush is sure to bring a unique touch of beauty and elegance to any garden.",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2916_exochorda_macrantha_the_bride/og/1536px-Philadelphus_C397_lemoinei.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2916_exochorda_macrantha_the_bride/regular/1536px-Philadelphus_C397_lemoinei.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2916_exochorda_macrantha_the_bride/medium/1536px-Philadelphus_C397_lemoinei.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2916_exochorda_macrantha_the_bride/small/1536px-Philadelphus_C397_lemoinei.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2916_exochorda_macrantha_the_bride/thumbnail/1536px-Philadelphus_C397_lemoinei.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12020,
+                    "type": "watering",
+                    "description": "Pearlbush (Exochorda macrantha 'The Bride') should be watered well every 5-7 days when temperatures are above 75 degrees Fahrenheit. During periods of extreme heat, water every 1-2 days to ensure that the roots don't dry out. When the temperatures start to drop, reduce the amount of water to every 7-14 days. In the winter, water only when the soil is dry to a depth of 2-3 inches. If the ground freezes, there's no need to water your pearlbush until the spring."
+                },
+                {
+                    "id": 12021,
+                    "type": "sunlight",
+                    "description": "Pearlbush (Exochorda macrantha 'The Bride') is a deciduous shrub that requires full sun for the best possible performance. In general, it prefers at least 5 to 6 hours of direct sunlight per day. Established plants are somewhat tolerant of partial shade, but usually need full sun for vibrant blooms and to maintain healthy foliage. In some colder regions, full sun can be too much in the hottest months of summer and should be avoided late in the day. Pearlbush is best grown in a location that receives full sun in the morning and then some dappled shade late in the day."
+                },
+                {
+                    "id": 12022,
+                    "type": "pruning",
+                    "description": "Pearlbush should be pruned regularly throughout the growing season in order to promote healthy growth and flowering. The best time to prune Pearlbush is early to mid-spring before new growth appears. You can also prune lightly in the summer to shape the bush and to keep it tidy. Be sure to remove dead, diseased, or damaged branches and stems any time of year. Avoid heavy pruning as this can cause your shrub to become leggy and weak. Make sure to use clean, sharp pruning shears for a clean cut."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2917,
+                "common_name": "pearlbush",
+                "scientific_name": [
+                    "Exochorda 'Niagara' SNOW DAY SURPRISE"
+                ],
+                "other_name": [],
+                "family": "Rosaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "2.00 to 4.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 2,
+                    "max_value": 4,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Cutting",
+                    "Grafting Propagation",
+                    "Layering Propagation",
+                    "Division"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2917&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2917&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "March",
+                    "April",
+                    "May",
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2917&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "White",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Pearlbush (Exochorda 'Niagara' SNOW DAY SURPRISE) is truly incredible. It is an deciduous shrub that shows off gorgeous clusters of pure white flowers in late spring. Its flowers and attractive oval shaped foliage make it perfect for any garden – especially during the winter season when its darkest green leaves contrast perfectly with its blooms. It is easy to maintain, thrives in full sun, and is disease-resistant. Plus, its unique shape and size make it an ideal addition to a low-maintenance garden. So surprise your garden this winter with the wintery delight of Pearlbush – a one-of-a-kind winter look you'll love.",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2917_exochorda_niagara_snow_day_surprise/og/Rosaceae_Exochorda_racemosa_2.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2917_exochorda_niagara_snow_day_surprise/regular/Rosaceae_Exochorda_racemosa_2.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2917_exochorda_niagara_snow_day_surprise/medium/Rosaceae_Exochorda_racemosa_2.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2917_exochorda_niagara_snow_day_surprise/small/Rosaceae_Exochorda_racemosa_2.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2917_exochorda_niagara_snow_day_surprise/thumbnail/Rosaceae_Exochorda_racemosa_2.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12023,
+                    "type": "watering",
+                    "description": "Pearlbush should be watered deeply to ensure that its root zone is evenly moist. Water the pearlbush regularly right after planting and then every 7-10 days once the plants are established. During periods of dry and/or hot weather, your pearlbush should be watered more frequently, approximately every 5-7 days. However, avoid over-watering as this can cause damage to the plant. A good way to check if the plant is adequately hydrated is to stick your finger into the soil. If the soil feels dry, it’s time to water."
+                },
+                {
+                    "id": 12024,
+                    "type": "sunlight",
+                    "description": "Pearlbush (Exochorda 'Niagara' SNOW DAY SURPRISE) requires at least 4 hours of direct sunlight exposure each day for best results. During summer months, this can be achieved by providing the plant with 6 to 8 hours of full or partial sunlight per day. In the winter, however, the sunlight may be reduced to 2 to 3 hours per day depending on the region. It's important to note that this well-branched shrub should not be placed in too much shade. Additionally, avoid exposing it to excessive reflected sunlight from walls or other bright surfaces."
+                },
+                {
+                    "id": 12025,
+                    "type": "pruning",
+                    "description": "Pearlbush (Exochorda 'Niagara' SNOW DAY SURPRISE) should be pruned in late winter or early spring before new growth begins. Prune judiciously, removing 1-third to 1-half of the oldest, tallest (up to 6 feet tall) stems to the ground. Thin out the branches and stems inside the bush to maintain its rounded shape. Doing so will result in a more compact, fuller looking bush with lots of white, spring blooms. As the plant matures, you can continue to lightly prune the oldest stems in late winter or early spring every few years."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2918,
+                "common_name": "pearlbush",
+                "scientific_name": [
+                    "Exochorda serratifolia"
+                ],
+                "other_name": [],
+                "family": "Rosaceae",
+                "origin": [
+                    "Manchuria",
+                    "Korea"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "6.00 to 8.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 6,
+                    "max_value": 8,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "7"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2918&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2918&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "5"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "June",
+                    "July"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2918&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "White",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Pearlbush (Exochorda serratifolia) is an amazing plant species for any garden. A favorite among gardeners, this shrub is both beautiful and easy to care for. Its white, star-shaped flowers provide exquisite blooms from early spring to midsummer. In the fall, deep maroon fruit appear, providing an added bonus of color. Foliage is also attractive with blue-green leaves, dissected into delicate lobes. Compact and rounded, pearlbush requires minimal pruning, making it an excellent low-maintenance option for any garden. Thus, pearlbush is an ideal choice for anyone looking for a stunning addition to their garden with minimal upkeep.",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2918_exochorda_serratifolia/og/41992572992_18182d5940_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2918_exochorda_serratifolia/regular/41992572992_18182d5940_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2918_exochorda_serratifolia/medium/41992572992_18182d5940_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2918_exochorda_serratifolia/small/41992572992_18182d5940_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2918_exochorda_serratifolia/thumbnail/41992572992_18182d5940_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12026,
+                    "type": "watering",
+                    "description": "Water pearlbush regularly during the growing season — from late spring to mid-fall — to keep soil evenly moist. Water deeply and slowly, saturating the soil as much as possible, but avoiding waterlogging. During dry spells, check soil moisture daily and increase the watering frequency.\n\nIn general, provide 1 to 1.5 inches of water per week by either rainfall or irrigation. Water more frequently if the weather has been unusually hot and dry. Reduce or stop watering in the fall as the plant enters dormancy.\n\nPearlbush should not be overwatered; in fact, it is rather drought-tolerant. Allow the top few inches of soil to dry out slightly before irrigating again. Avoid prolonged or excessive soil moisture, which can lead to root rot and plant death."
+                },
+                {
+                    "id": 12027,
+                    "type": "sunlight",
+                    "description": "Pearlbush (Exochorda serratifolia) should receive approximately 6-8 hours of direct sunlight for optimal growth. The best times to receive direct sunlight are between 10 a.m. - 2 p.m., when the sun is at its peak intensity. If possible, avoid planting in spots where it will receive afternoon sun, as this could cause leaf burn and discoloration. Pearlbush should always be planted in a site with some protection from strong winds, as this species is sensitive to wind damage."
+                },
+                {
+                    "id": 12028,
+                    "type": "pruning",
+                    "description": "Pruning Pearlbush (Exochorda serratifolia) should be done shortly after the shrub has bloomed in early summer. You should prune the plant back roughly 1 third of its overall height. This will encourage future blooms and keep the foliage in check. It is important to take individual stems and thin them out in order to show off the natural columned shape of the shrub and to keep airflow moving within the branches. Once this has been accomplished, old wood within the shrub should be removed in order to produce more flowering branches."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2919,
+                "common_name": "pearlbush",
+                "scientific_name": [
+                    "Exochorda serratifolia 'Northern Pearls'"
+                ],
+                "other_name": [],
+                "family": "Rosaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "6.00 to 8.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 6,
+                    "max_value": 8,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "7"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2919&size=og&key=sk-s2Yp6566120c66d243170",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2919&size=og&key=sk-s2Yp6566120c66d243170'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "May",
+                    "November",
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2919&key=sk-s2Yp6566120c66d243170",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": "Spring",
+                "flower_color": "White",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Pearlbush (Exochorda serratifolia ‘Northern Pearls’) is a special plant that blooms with amazing white and pink flower clusters resembling giant, puffy, pearl-like decorations. They look and feel magical! The plant grows and spreads easily, letting your garden turn into a pearl-encrusted wonderland. The evergreen foliage stays lush throughout the year, adding a perfect backdrop for the dazzling floral display in early spring. Whether strategically planted in the garden or placed in a pot on the patio, pearlbush will light up your space and be sure to turn heads.",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2919_exochorda_serratifolia_northern_pearls/og/17782335214_051678bc47_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2919_exochorda_serratifolia_northern_pearls/regular/17782335214_051678bc47_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2919_exochorda_serratifolia_northern_pearls/medium/17782335214_051678bc47_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2919_exochorda_serratifolia_northern_pearls/small/17782335214_051678bc47_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2919_exochorda_serratifolia_northern_pearls/thumbnail/17782335214_051678bc47_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12029,
+                    "type": "watering",
+                    "description": "Pearlbush should be watered frequently, but shallowly, about once a week during the growing season. Make sure the soil is damp, but not wet. During dry periods, increase the frequency of watering, but reduce the amount of water given at each watering. During the winter months, reduce the amount of water to every couple of weeks. Established plants are more tolerant of drought than young plants, so be careful to not give too much water during cold weather."
+                },
+                {
+                    "id": 12030,
+                    "type": "sunlight",
+                    "description": "Pearlbush (Exochorda serratifolia 'Northern Pearls') plants perform best in full sun or partial shade, preferably exposure to morning sun and afternoon shade. This species should receive 6-8 hours of direct sunlight per day during the growing season of spring and summer. In the cooler months of fall and winter, 3-4 hours of direct sunlight is sufficient."
+                },
+                {
+                    "id": 12031,
+                    "type": "pruning",
+                    "description": "Pearlbush can be pruned in late winter or early spring, before leaves begin to grow. Carefully remove dead, damaged or uncoloured stems. Cut back 1-third of the oldest stems to ground level. In warmer regions, pruning may be done in late autumn after the growing season. Pruning should be done lightly to maintain the natural shape of the plant. Remove any suckers arising from the root zone. Remember that while pruning can help keep this shrub looking attractive, it should not be done excessively, as this can damage the plant."
+                }
+            ],
+            "faqs": []
+        }
+    ],
+    "standAloneFaqs": [
+        {
+            "id": 11,
+            "question": "Do shade growing plants need any Sunlight?",
+            "answer": "Shade growing plants do need sunlight, although they require less than other plants. They need some direct sunlight each morning to help them photosynthesize and grow properly. Also, indirect sunlight throughout the day helps them stay healthy. Shade growing plants will benefit from the sunshine, but if they get too much or too little, then they can suffer the consequences. It's important to pay attention to the needs of your plants so that you can provide them with the proper light for optimal growth.",
+            "tags": [
+                "shade",
+                "sunlight",
+                "plant",
+                "exposure",
+                "half sun"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/medium.jpg"
+            }
+        },
+        {
+            "id": 12,
+            "question": "How often should you water indoor plants?",
+            "answer": "Indoor plants should be watered when the soil feels dry to a depth of about two inches, usually about once a week. A helpful technique to determine your plants' watering needs is to feel the soil before and after watering to get a sense of how long it takes to dry out. An important note to remember is that some plants require less water than others, and it's best to research the specific needs of your individual plants. Likewise, if your home is very dry, you might need to water more often as the lack of moisture can stress the plants and lead to problems like brown leaves and wilted stems.",
+            "tags": [
+                "water willow",
+                "water arum",
+                "water birch",
+                "indoor",
+                "water"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/medium.jpg"
+            }
+        },
+        {
+            "id": 13,
+            "question": "Can my monstera plant get root rot?",
+            "answer": "Yes, a plant can get root rot. Root rot is a fungal disease that can be caused by over-watering, poor soil drainage, or high humidity levels in the air. Signs of root rot include yellowing leaves, wilting and stunted growth, and damaged or browning root systems. Sometimes it is difficult to detect root rot until the plant is removed from the soil, as the problems are mainly below the soil surface. Treating root rot usually involves removing the affected parts of the plant and replanting the unaffected ones.",
+            "tags": [
+                "root rot",
+                "disease",
+                "pest",
+                "monstera",
+                "overwater"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/medium.jpg"
+            }
+        },
+        {
+            "id": 14,
+            "question": "Can I put my Monstera outside in summer?",
+            "answer": "No, you should not put your Monstera outside in summer. Monstera plants need warm, humid air to thrive, and direct sunlight can scorch their leaves. Instead, put your Monstera in a bright, sunny spot with indirect light, making sure the sun never directly hits the leaves. During the summer, keep your Monstera's soil damp and mist it occasionally to keep the leaves hydrated. At nighttime, keep the temperature around 16 - 21°C (60 - 70°F). You can definitely take your Monstera outdoors for short periods of time, just make sure to bring it back in if it starts to get too hot.",
+            "tags": [
+                "Monstera",
+                "summer",
+                "sunlight",
+                "outdoor",
+                "outside"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/medium.jpg"
+            }
+        },
+        {
+            "id": 15,
+            "question": "What happens if my monstera plant gets too cold?",
+            "answer": "If your monstera plant gets too cold, it will become vulnerable to pests, disease, or other damage. Cold temperatures can damage the leaves of the plant, causing them to become spotted or limp. The roots of monstera plants may also suffer in cold temperatures, leading to root rot or other diseases. Belonging to the tropical family, monsteras are used to warm environments and do not do well in cold temperatures, so it is important to ensure your plant is kept in conditions that suit their needs.",
+            "tags": [
+                "monstera",
+                "winter",
+                "cold",
+                "issue",
+                "freezing"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/medium.jpg"
+            }
+        },
+        {
+            "id": 17,
+            "question": "Is it possible to grow a vegetable garden in a small space?",
+            "answer": "Yes, it is possible to grow a vegetable garden in a small space. Gardening in a small space can be as simple as growing a few containerized plants in pots and raised beds, or as elaborate as vertically stacking planters, hanging pouches, and hanging baskets on a wall, railing, or fence. Regardless of the size of the space you are working with, some simple techniques such as companion planting, organic fertilizers, and water conservation can help you get the most out of your small vegetable garden.",
+            "tags": [
+                "garden",
+                "vegetables",
+                "plants",
+                "grow",
+                "small space"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/medium.jpg"
+            }
+        },
+        {
+            "id": 18,
+            "question": "Is peppermint herb green good for digestion?",
+            "answer": "Peppermint herb is indeed beneficial for digestion. The flavonoids in the herb support digestion by reducing inflammation in the digestive track, aiding in digestion and relieving indigestion, heartburn, and even the symptoms of irritable bowel syndrome. Additionally, peppermint is naturally rich in menthol, which helps to relax the muscles of the stomach, aiding in the digestion of food. Peppermint herb can be consumed in a variety of forms, such as teas, tinctures and capsules, as well as by adding the herb to food or directly to water or tea.",
+            "tags": [
+                "peppermint",
+                "herb",
+                "green",
+                "mint",
+                "plant"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 19,
+            "question": "Should peppermint herb green be consumed daily?",
+            "answer": "No, peppermint herb green should not be consumed daily. This is because it contains high levels of menthol, which can be toxic if taken in large doses. Additionally, consuming large amounts of peppermint herb green could interfere with the absorption of essential minerals and vitamins, potentially causing vitamin deficiencies. For these reasons, it is best to consult with a doctor before incorporating peppermint herb green into your daily diet.",
+            "tags": [
+                "peppermint",
+                "mint",
+                "health",
+                "plant",
+                "herb"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/medium.jpg"
+            }
+        },
+        {
+            "id": 22,
+            "question": "Is watermelon a good source of hydration?",
+            "answer": "Yes, watermelon is a great source of hydration. It is about 92% water and rich in electrolytes for hydration. It is also an excellent source of vitamins A, C, and B-6, as well as potassium. The electrolytes and water content of watermelon can help replace lost fluid and electrolytes, making it a great post-exercise snack. Watermelon is also low in calories, so it can be a great way to rehydrate without over-consuming calories.",
+            "tags": [
+                "watermelon",
+                "summer food",
+                "hydration",
+                "healthy eating",
+                "plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/medium.jpg"
+            }
+        },
+        {
+            "id": 23,
+            "question": "Are watermelons good for weight loss?",
+            "answer": "Yes, watermelons can be a great food for weight loss. Watermelon is low in calories and rich in fiber making it a great snack to keep you feeling full and help you to avoid overeating. Additionally, watermelon is rich in essential vitamins and minerals including vitamin C, potassium and magnesium, as well as antioxidants which help to support overall health and wellness. Eating watermelon can help you to stay hydrated and can give you the required energy for a healthier lifestyle.",
+            "tags": [
+                "watermelon",
+                "plant",
+                "weightloss",
+                "summer food",
+                "fruit"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/medium.jpg"
+            }
+        },
+        {
+            "id": 25,
+            "question": "Should watermelons be refrigerated before eating?",
+            "answer": "Yes, it is recommended that watermelons be refrigerated before eating. Not only will refrigerating the fruit make it taste better, but it will also help preserve it for a long period of time. Refrigerating the watermelon will help keep it fresh and crisp, and make it more enjoyable to eat. It is also important to store any leftover watermelon in the refrigerator so that it does not spoil.",
+            "tags": [
+                "watermelon",
+                "healthyeating",
+                "summerfood",
+                "fruit",
+                "plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/medium.jpg"
+            }
+        },
+        {
+            "id": 30,
+            "question": "Are peace lily plants toxic to pets?",
+            "answer": "Yes, peace lily plants are toxic to pets. Both cats and dogs can suffer from vomiting, drooling, and difficulty swallowing if they ingest any part of the peace lily plant. In severe cases, pets may also experience difficulty breathing or an increased heart rate due to the ingestion of the poisonous plant. If you believe your pet has ingested any part of the Peace Lily, it is advisable to contact a vet immediately.",
+            "tags": [
+                "peace lily",
+                "plant",
+                "nontoxicplant",
+                "pets",
+                "flower",
+                "lily"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/medium.jpg"
+            }
+        },
+        {
+            "id": 31,
+            "question": "Can Monstera deliciosa live in water?",
+            "answer": "No, Monstera deliciosa is not a water plant and cannot live in water. This vine prefers warm, semi-shaded areas with moist, well-draining soils. It is sensitive to overwatering, so provide a large pot with well-drained soil, and water only when the top 2 inches of soil are dry. The Monstera plant also likes to climb, so make sure to provide it with plenty of support.",
+            "tags": [
+                "Monstera",
+                "water",
+                "habitat",
+                "living",
+                "Swiss Cheese",
+                "Deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/medium.jpg"
+            }
+        },
+        {
+            "id": 32,
+            "question": "Do monstera Deliciosa have fruits?",
+            "answer": "Yes, Monstera Deliciosa plants produce edible fruits commonly referred to as Monstera Fruits, which are also called Split-Leaf Philodendrons. These fruit have a tropical flavor similar to a combination of banana, pineapple, and mango, with a creamy texture. The fruits can be round or oblong, each ranging in size from 2-6 inches. They start off green and mature to a yellowish color.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Fruit",
+                "Bread fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 45,
+                "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                "original_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/medium.jpg"
+            }
+        },
+        {
+            "id": 33,
+            "question": "Are Monstera Deliciosa fruit edible?",
+            "answer": "Yes, Monstera Deliciosa fruit is edible and is quite delicious. The fruits are often compared to the taste of pineapple, papaya, and banana. When the fruit is fully ripe, it is best to consume immediately, as the flavor quickly deteriorates due to its high sugar content. The green fruit can be boiled, baked, fried, or eaten raw. The taste of the flesh can vary from sour to sweet, depending on the variety of the fruit. Be sure to consume at least the ripe yellow parts of the fruit, as the green areas tend to be a bit bitter.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Bread fruit",
+                "Fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 45,
+                "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                "original_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/medium.jpg"
+            }
+        },
+        {
+            "id": 34,
+            "question": "Are Monstera Deliciosa fruits healthy?",
+            "answer": "Yes, Monstera Deliciosa fruits are healthy. They are a good source of vitamins and minerals, including vitamins A and C which help boost our immunity and support healthy skin, as well as fiber to keep our digestive system in check. These fruits are low in calories and contain zero cholesterol and saturated fats, making them a great addition to any vegetarian or vegan diet. Additionally, Monstera Deliciosa fruits contain compounds known as saponins, which have been shown to have antioxidant and anti-inflammatory effects, helping to protect our cells from oxidative damage.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Bread fruit",
+                "Fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/medium.jpg"
+            }
+        },
+        {
+            "id": 35,
+            "question": "Does Monstera need a lot of sunlight?",
+            "answer": "No, Monstera does not need a lot of sunlight to thrive. In fact, too much direct sunlight can cause the leaves to burn. Instead, Monstera prefers to be positioned in a spot where it gets indirect, filtered light. When growing indoors, place the plant near a window that provides plenty of light but does not expose it to intense, direct sunlight. Providing the plant with a few hours of indirect sunlight a day is ideal for keeping it happy and healthy.",
+            "tags": [
+                "Monstera",
+                "Swiss Cheese",
+                "Sunlight",
+                "Sun",
+                "deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/medium.jpg"
+            }
+        },
+        {
+            "id": 36,
+            "question": "Is a moss pole required for my Monstera?",
+            "answer": "A moss pole is not strictly required for a Monstera plant as it is a climber and can cling to things by itself. However, if you do want to train your Monstera to grow up a moss pole it can be beneficial, as it helps guide the growth and allows you to control the direction of your Monstera's leaves. It's also important to make sure your Monstera is getting the proper support it needs and a moss pole can provide that.",
+            "tags": [
+                "moss",
+                "pole",
+                "monstera",
+                "deliciosa",
+                "swiss cheese"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/medium.jpg"
+            }
+        },
+        {
+            "id": 37,
+            "question": "Can monstera be propagated from a stem cutting?",
+            "answer": "Yes, monstera can be propagated from a stem cutting. This is a relatively straightforward process in which a healthy stem cutting is taken from a mature monstera and placed in moist soil. The soil should be kept moist in a warm, humid location with bright, indirect light. Once the roots begin to form, the cutting can be transplanted into a separate pot for continued growth. Be sure to protect the new cutting from extreme temperatures, excessive direct sunlight, and overwatering.",
+            "tags": [
+                "Monstera",
+                "Cutting",
+                "propagating",
+                "swiss cheese",
+                "deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/medium.jpg"
+            }
+        },
+        {
+            "id": 39,
+            "question": "Is the spider plant easy to care for?",
+            "answer": "Yes, spider plants are very easy to care for. They are know for being a perfect plant for beginner plant parents. They grow well and thrive in bright, indirect areas as well as low-light conditions. They require minimal maintenance with regular watering and occasional pruning or division for larger and fuller mats of foliage. Spider plants are forgiving and are quite drought-resistant, so it's difficult to over-water them. Adding fertilizer once a month during the growing season will help them to thrive even more.",
+            "tags": [
+                "spider plant",
+                "house plant",
+                "indoor plant",
+                "house decor plant",
+                "plant"
+            ],
+            "default_image": {
+                "license": 3,
+                "license_name": null,
+                "license_url": null,
+                "original_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/medium.jpg"
+            }
+        },
+        {
+            "id": 40,
+            "question": "Are spider plants known to improve indoor air quality?",
+            "answer": "Yes, spider plants are known to be one of the most effective houseplants at removing common air pollutants. Spider plants absorb gaseous formaldehyde, carbon monoxide, and xylene from indoor air and convert it into oxygen. They also convert carbon dioxide into oxygen during the day, helping to freshen the air in your home or office. Spider plants also help to reduce indoor humidity levels. They are an excellent choice for improving indoor air quality.",
+            "tags": [
+                "spider plant",
+                "indoor plant",
+                "plant",
+                "homedecor plant",
+                "airpurifing plant"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 41,
+            "question": "Can spider plants grow well in low light conditions?",
+            "answer": "Yes, spider plants are a very easy to care for houseplant that actually prefers a low light condition. They will usually thrive in a bright indirect light area of the home but can easily adapt to lower light conditions. Spider plants are very resilient and can even withstand a few weeks of low light levels before the plants start to suffer.",
+            "tags": [
+                "spider plant",
+                "indoor plant",
+                "plant",
+                "housedecor plant",
+                "house plant"
+            ],
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/medium.jpg"
+            }
+        },
+        {
+            "id": 42,
+            "question": "Do Snake Plants have a long lifespan?",
+            "answer": "Yes, snake plants (also known as mother-in-law's tongue) have a long lifespan. They can live for several years, up to 10-15 years if given proper care. Snake plants are very hardy houseplants, needing minimal attention and able to tolerate a wide range of growing conditions. They are also drought tolerant, making them relatively low maintenance plants. With proper care and good conditions, the lifespan of a snake plant can easily be extended to over 20 years.",
+            "tags": [
+                "snakeplant",
+                "indoor plant",
+                "house plant",
+                "homedecor",
+                "plant care"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 43,
+            "question": "Can Snake Plants grow in low light conditions?",
+            "answer": "Yes, Snake Plants are very tolerant to low light environments and they can survive in almost any kind of light, including fluorescent lighting. They can even survive in areas with no natural light at all. Snake Plants are extremely hardy and can handle a wide range of light conditions, including both direct and indirect light. However, the plants may not thrive or grow as lush or as quickly as plants in brighter light, but they will still survive.",
+            "tags": [
+                "snake plant",
+                "indoor plant",
+                "house decor",
+                "plants",
+                "plant care"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 44,
+            "question": "Should Snake Plants be watered frequently?",
+            "answer": "No, snake plants should not be watered frequently. Snake plants are hardy, drought-tolerant plants, and can withstand dry periods of time. They thrive on limited water, so over-watering can cause their roots to rot. Typically, it is recommended to water snake plants every two to four weeks, depending upon the season. Be sure to always check soil moisture before adding more water, as too much water can cause the leaves to turn yellow or brown.",
+            "tags": [
+                "snake plant",
+                "plant care",
+                "plants",
+                "home decor",
+                "indoor plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/medium.jpg"
+            }
+        },
+        {
+            "id": 45,
+            "question": "Could Snake Plants be used as natural air purifiers?",
+            "answer": "Yes, snake plants can be used as natural air purifiers. These plants are highly efficient at removing a range of toxins from the air, including volatile organic compounds such as formaldehyde, trichloroethylene, xylene, and benzene. Studies have shown that snake plants can reduce indoor air pollutants by as much as 40 to 60 percent when placed strategically around the home. Furthermore, these plants are low-maintenance, easy to care for, and virtually indestructible, making them an ideal choice for those looking to clean up their air quality without spending much time or money.",
+            "tags": [
+                "snake plant",
+                "indoor plant",
+                "house decor",
+                "plants",
+                "houseplant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/medium.jpg"
+            }
+        },
+        {
+            "id": 46,
+            "question": "Is the Peony popular flower in Canada? ",
+            "answer": "Yes, the peony is a popular flower in Canada. It is highly prized for its showy blooms and long-lasting beauty. Peonies have been cultivated in Canada for centuries, and their popularity is due in part to their long-lasting blooms and hardiness in colder temperatures. Peonies are a popular choice in Canadian gardens, and flower arrangements. They are also used in bouquets and centerpieces, where their stunning colors really shine.",
+            "tags": [
+                "peony",
+                "canada",
+                "flower",
+                "plant",
+                "landscapeplant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/medium.jpg"
+            }
+        },
+        {
+            "id": 47,
+            "question": "Are Peonies fragrant? ",
+            "answer": "Yes, peonies are quite fragrant. Depending on the variety of peony, the scent can be described as sweet, floral, and citrusy. Some of the most popular and aromatic varieties of peony include 'Pillow Talk', 'Fairy Tale', and the 'Duchess De Nemours'. Peonies are often used in floral arrangements and can even be grown in your garden for a fresh, summery scent.",
+            "tags": [
+                "peony",
+                "fragrant",
+                "flower",
+                "plant",
+                "landscape plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/medium.jpg"
+            }
+        },
+        {
+            "id": 48,
+            "question": "Can Peonies be grown in partial shade? ",
+            "answer": "Yes, peonies can be grown in partial shade. While they require at least 6 hours of sunlight per day during the first half of the growing season, the second half is best if the plants can receive a few hours of shade. As long as the area is not completely shaded, the peonies should do well. These plants are also hardy, so they can generally thrive in a variety of locations.",
+            "tags": [
+                "peony",
+                "flower",
+                "plant",
+                "partial shade",
+                "peonies"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/medium.jpg"
+            }
+        },
+        {
+            "id": 49,
+            "question": "Do Peonies require well-drained soil? ",
+            "answer": "Yes, peonies do require well-drained soil in order to grow and flourish. Planting them in heavy clay soil can cause the roots to rot, as the soil will stay wet for too long. To ensure good drainage and aeration, it is recommended that the soil is amended with organic matter like compost or peat moss. The soil should also be slightly acidic, with a pH of 6.0-7.0. Additionally, peonies may need to be watered more often during the summer, as they are prone to wilt in hot temperatures.",
+            "tags": [
+                "peony",
+                "soil",
+                "plant",
+                "flower",
+                "fragrance"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/medium.jpg"
+            }
+        }
+    ]
+}

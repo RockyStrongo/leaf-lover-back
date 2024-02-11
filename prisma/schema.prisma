@@ -1,0 +1,122 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Plant {
+  id                            Int         @id @default(autoincrement())
+  commonName                    String      @map("common_name")
+  scientificName                String      @map("scientific_name")
+  description                   String
+  type                          String
+  watering                      String
+  flowers                       Boolean
+  careLevel                     String      @map("care_level")
+  cuisine                       Boolean
+  poisonousToHumans             Boolean     @map("poisonous_to_humans")
+  poisonousToPets               Boolean     @map("poisonous_to_pets")
+  wateringGeneralBenchmarkValue Int         @map("watering_general_benchmark_value")
+  wateringGeneralBenchmarkUnit  String      @map("watering_general_benchmark_unit")
+  externalId                    Int         @map("external_id")
+  defaultImageThumbnail         String?     @map("default_image_thumbnail")
+  defaultImageRegular           String?     @map("default_image_regular")
+  UserPlant                     UserPlant[]
+  CareGuide                     CareGuide[]
+  Faq                           Faq[]
+
+  @@map("plant")
+}
+
+model Faq {
+  id       Int    @id @default(autoincrement())
+  question String
+  answer   String
+  plant    Plant? @relation(fields: [plantId], references: [id])
+  plantId  Int?
+
+  @@map("faq")
+}
+
+model CareGuide {
+  id              Int           @id @default(autoincrement())
+  description     String
+  plant           Plant         @relation(fields: [plantId], references: [id])
+  careGuideType   CareGuideType @relation(fields: [careGuideTypeId], references: [id])
+  careGuideTypeId Int           @map("care_guide_type_id")
+  plantId         Int
+
+  @@map("care_guide")
+}
+
+model CareGuideType {
+  id        Int         @id @default(autoincrement())
+  code      String      @unique
+  label     String
+  CareGuide CareGuide[]
+
+  @@map("care_guide_type")
+}
+
+model UserPlant {
+  id              Int      @id @default(autoincrement())
+  acquisitionDate DateTime @map("acquisition_date")
+  nickname        String?
+  notes           String?
+  giftedBy        String?  @map("gifted_by")
+  plant           Plant    @relation(fields: [plantId], references: [id])
+  plantId         Int      @map("plant_id")
+  user            User     @relation(fields: [userId], references: [id])
+  userId          Int      @map("user_id")
+  Action          Action[]
+  active          Boolean  @default(true)
+
+  @@map("user_plant")
+}
+
+model User {
+  id                   Int                    @id @default(autoincrement())
+  firstName            String                 @map("first_name")
+  lastName             String                 @map("last_name")
+  email                String                 @unique
+  password             String
+  active               Boolean                @default(true)
+  phone                String?
+  UserPlant            UserPlant[]
+  isVerified           Boolean                @default(false) @map("is_verified")
+  EmailValidationToken EmailValidationToken[]
+
+  @@map("user")
+}
+
+model EmailValidationToken {
+  id     Int    @id @default(autoincrement())
+  token  String @unique
+  user   User   @relation(fields: [userId], references: [id])
+  userId Int
+
+  @@map("email_validation_token")
+}
+
+model ActionType {
+  id     Int      @id @default(autoincrement())
+  code   String   @unique
+  label  String
+  Action Action[]
+
+  @@map("action_type")
+}
+
+model Action {
+  id           Int        @id @default(autoincrement())
+  date         DateTime   @map("date")
+  done         Boolean    @default(false)
+  doneDate     DateTime?  @map("done_date")
+  userPlant    UserPlant  @relation(fields: [userPlantId], references: [id])
+  userPlantId  Int        @map("user_plant_id")
+  type         ActionType @relation(fields: [actionTypeId], references: [id])
+  actionTypeId Int        @map("action_type_id")
+}

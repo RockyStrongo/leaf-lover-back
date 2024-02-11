@@ -1,0 +1,716 @@
+{
+    "plantsData": [
+        {
+            "plant": {
+                "id": 2902,
+                "common_name": "lisianthus",
+                "scientific_name": [
+                    "Eustoma grandiflorum"
+                ],
+                "other_name": [
+                    "prairie gentian",
+                    "Texas bluebell",
+                    "prairie gentian",
+                    "Texas bluebell"
+                ],
+                "family": "Gentianaceae",
+                "origin": [
+                    "Nebraska",
+                    "Colorado",
+                    "Kansas",
+                    "Texas"
+                ],
+                "type": "Flower",
+                "dimension": "1.00 to 3.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 1,
+                    "max_value": 3,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "8",
+                    "max": "10"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2902&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2902&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": "morning",
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July"
+                ],
+                "pruning_count": [],
+                "seeds": 1,
+                "maintenance": "High",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2902&key=sk-Omzp656896e0da90c3213",
+                "soil": [
+                    "Well-drained"
+                ],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": null,
+                "pest_susceptibility": [
+                    "Mold",
+                    " Root rot",
+                    " Thrips",
+                    " Virus",
+                    " Wilt"
+                ],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": "Summer",
+                "flower_color": "Pale purple",
+                "cones": false,
+                "fruits": true,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [
+                    "green",
+                    "brown"
+                ],
+                "harvest_season": "Summer",
+                "leaf": true,
+                "leaf_color": [],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Lisianthus, also known as Eustoma grandiflorum, is a beautiful flower that blooms in a range of lovely colors. The flower has delicate, soft blossoms and its center is what holds the lace-like petals. This flower offers a true statement of beauty, making it perfect as a centerpiece in any bouquet, wreath or arrangement. Lisianthus also has a long vase life and requires little care and attention to thrive. Plus, it's multiplied easily with division allowing many gardeners to create a garden filled with color and cheer!",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2902_eustoma_grandiflorum/og/9198152685_64144910a8_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2902_eustoma_grandiflorum/regular/9198152685_64144910a8_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2902_eustoma_grandiflorum/medium/9198152685_64144910a8_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2902_eustoma_grandiflorum/small/9198152685_64144910a8_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2902_eustoma_grandiflorum/thumbnail/9198152685_64144910a8_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 11990,
+                    "type": "watering",
+                    "description": "Lisianthus should be watered when the soil feels dry to the touch; this may be up to every 2 days in warm and dry conditions. When watering, aim to moisten the entire root zone, not just the surface. It is ideal to water in the early morning, as this is when the plant can make best use of the water. Wet foliage in the heat of the day can cause issues with mildew. After watering, allow the soil to drain completely and discard any water that collects in the saucer or pot."
+                },
+                {
+                    "id": 11991,
+                    "type": "sunlight",
+                    "description": "Lisianthus (Eustoma grandiflorum) is a shade loving plant that prefers 4 – 6 hours of direct daylight either in the morning or late afternoon. They need plenty of bright, indirect light to grow strong and healthy, and can suffer from too much direct light, sunburn or possible plant death. If lisianthus is growing outdoors in direct sunlight, shade it during the hottest and brightest parts of the day and keep it out of strong winds in the garden. In colder climates, lisianthus can be grown outdoors if placed in a spot with some protection from the wind."
+                },
+                {
+                    "id": 11992,
+                    "type": "pruning",
+                    "description": "Lisianthus (Eustoma grandiflorum) does best with careful pruning to promote healthy flowering and grow bushier. Prune lisianthus plants when the stems begin to grow taller than 12 inches. Remove some of the longest stems, leaving some of the buds at the base of the stem, which will help create fuller, bushier growth. Prune lisianthus in the spring or early summer for optimal blooming. Furthermore, remove any dead or wilted stems and remove any flower heads that have already bloomed."
+                }
+            ],
+            "faqs": []
+        }
+    ],
+    "standAloneFaqs": [
+        {
+            "id": 11,
+            "question": "Do shade growing plants need any Sunlight?",
+            "answer": "Shade growing plants do need sunlight, although they require less than other plants. They need some direct sunlight each morning to help them photosynthesize and grow properly. Also, indirect sunlight throughout the day helps them stay healthy. Shade growing plants will benefit from the sunshine, but if they get too much or too little, then they can suffer the consequences. It's important to pay attention to the needs of your plants so that you can provide them with the proper light for optimal growth.",
+            "tags": [
+                "shade",
+                "sunlight",
+                "plant",
+                "exposure",
+                "half sun"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/medium.jpg"
+            }
+        },
+        {
+            "id": 12,
+            "question": "How often should you water indoor plants?",
+            "answer": "Indoor plants should be watered when the soil feels dry to a depth of about two inches, usually about once a week. A helpful technique to determine your plants' watering needs is to feel the soil before and after watering to get a sense of how long it takes to dry out. An important note to remember is that some plants require less water than others, and it's best to research the specific needs of your individual plants. Likewise, if your home is very dry, you might need to water more often as the lack of moisture can stress the plants and lead to problems like brown leaves and wilted stems.",
+            "tags": [
+                "water willow",
+                "water arum",
+                "water birch",
+                "indoor",
+                "water"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/medium.jpg"
+            }
+        },
+        {
+            "id": 13,
+            "question": "Can my monstera plant get root rot?",
+            "answer": "Yes, a plant can get root rot. Root rot is a fungal disease that can be caused by over-watering, poor soil drainage, or high humidity levels in the air. Signs of root rot include yellowing leaves, wilting and stunted growth, and damaged or browning root systems. Sometimes it is difficult to detect root rot until the plant is removed from the soil, as the problems are mainly below the soil surface. Treating root rot usually involves removing the affected parts of the plant and replanting the unaffected ones.",
+            "tags": [
+                "root rot",
+                "disease",
+                "pest",
+                "monstera",
+                "overwater"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/medium.jpg"
+            }
+        },
+        {
+            "id": 14,
+            "question": "Can I put my Monstera outside in summer?",
+            "answer": "No, you should not put your Monstera outside in summer. Monstera plants need warm, humid air to thrive, and direct sunlight can scorch their leaves. Instead, put your Monstera in a bright, sunny spot with indirect light, making sure the sun never directly hits the leaves. During the summer, keep your Monstera's soil damp and mist it occasionally to keep the leaves hydrated. At nighttime, keep the temperature around 16 - 21°C (60 - 70°F). You can definitely take your Monstera outdoors for short periods of time, just make sure to bring it back in if it starts to get too hot.",
+            "tags": [
+                "Monstera",
+                "summer",
+                "sunlight",
+                "outdoor",
+                "outside"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/medium.jpg"
+            }
+        },
+        {
+            "id": 15,
+            "question": "What happens if my monstera plant gets too cold?",
+            "answer": "If your monstera plant gets too cold, it will become vulnerable to pests, disease, or other damage. Cold temperatures can damage the leaves of the plant, causing them to become spotted or limp. The roots of monstera plants may also suffer in cold temperatures, leading to root rot or other diseases. Belonging to the tropical family, monsteras are used to warm environments and do not do well in cold temperatures, so it is important to ensure your plant is kept in conditions that suit their needs.",
+            "tags": [
+                "monstera",
+                "winter",
+                "cold",
+                "issue",
+                "freezing"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/medium.jpg"
+            }
+        },
+        {
+            "id": 17,
+            "question": "Is it possible to grow a vegetable garden in a small space?",
+            "answer": "Yes, it is possible to grow a vegetable garden in a small space. Gardening in a small space can be as simple as growing a few containerized plants in pots and raised beds, or as elaborate as vertically stacking planters, hanging pouches, and hanging baskets on a wall, railing, or fence. Regardless of the size of the space you are working with, some simple techniques such as companion planting, organic fertilizers, and water conservation can help you get the most out of your small vegetable garden.",
+            "tags": [
+                "garden",
+                "vegetables",
+                "plants",
+                "grow",
+                "small space"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/medium.jpg"
+            }
+        },
+        {
+            "id": 18,
+            "question": "Is peppermint herb green good for digestion?",
+            "answer": "Peppermint herb is indeed beneficial for digestion. The flavonoids in the herb support digestion by reducing inflammation in the digestive track, aiding in digestion and relieving indigestion, heartburn, and even the symptoms of irritable bowel syndrome. Additionally, peppermint is naturally rich in menthol, which helps to relax the muscles of the stomach, aiding in the digestion of food. Peppermint herb can be consumed in a variety of forms, such as teas, tinctures and capsules, as well as by adding the herb to food or directly to water or tea.",
+            "tags": [
+                "peppermint",
+                "herb",
+                "green",
+                "mint",
+                "plant"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 19,
+            "question": "Should peppermint herb green be consumed daily?",
+            "answer": "No, peppermint herb green should not be consumed daily. This is because it contains high levels of menthol, which can be toxic if taken in large doses. Additionally, consuming large amounts of peppermint herb green could interfere with the absorption of essential minerals and vitamins, potentially causing vitamin deficiencies. For these reasons, it is best to consult with a doctor before incorporating peppermint herb green into your daily diet.",
+            "tags": [
+                "peppermint",
+                "mint",
+                "health",
+                "plant",
+                "herb"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/medium.jpg"
+            }
+        },
+        {
+            "id": 22,
+            "question": "Is watermelon a good source of hydration?",
+            "answer": "Yes, watermelon is a great source of hydration. It is about 92% water and rich in electrolytes for hydration. It is also an excellent source of vitamins A, C, and B-6, as well as potassium. The electrolytes and water content of watermelon can help replace lost fluid and electrolytes, making it a great post-exercise snack. Watermelon is also low in calories, so it can be a great way to rehydrate without over-consuming calories.",
+            "tags": [
+                "watermelon",
+                "summer food",
+                "hydration",
+                "healthy eating",
+                "plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/medium.jpg"
+            }
+        },
+        {
+            "id": 23,
+            "question": "Are watermelons good for weight loss?",
+            "answer": "Yes, watermelons can be a great food for weight loss. Watermelon is low in calories and rich in fiber making it a great snack to keep you feeling full and help you to avoid overeating. Additionally, watermelon is rich in essential vitamins and minerals including vitamin C, potassium and magnesium, as well as antioxidants which help to support overall health and wellness. Eating watermelon can help you to stay hydrated and can give you the required energy for a healthier lifestyle.",
+            "tags": [
+                "watermelon",
+                "plant",
+                "weightloss",
+                "summer food",
+                "fruit"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/medium.jpg"
+            }
+        },
+        {
+            "id": 25,
+            "question": "Should watermelons be refrigerated before eating?",
+            "answer": "Yes, it is recommended that watermelons be refrigerated before eating. Not only will refrigerating the fruit make it taste better, but it will also help preserve it for a long period of time. Refrigerating the watermelon will help keep it fresh and crisp, and make it more enjoyable to eat. It is also important to store any leftover watermelon in the refrigerator so that it does not spoil.",
+            "tags": [
+                "watermelon",
+                "healthyeating",
+                "summerfood",
+                "fruit",
+                "plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/medium.jpg"
+            }
+        },
+        {
+            "id": 30,
+            "question": "Are peace lily plants toxic to pets?",
+            "answer": "Yes, peace lily plants are toxic to pets. Both cats and dogs can suffer from vomiting, drooling, and difficulty swallowing if they ingest any part of the peace lily plant. In severe cases, pets may also experience difficulty breathing or an increased heart rate due to the ingestion of the poisonous plant. If you believe your pet has ingested any part of the Peace Lily, it is advisable to contact a vet immediately.",
+            "tags": [
+                "peace lily",
+                "plant",
+                "nontoxicplant",
+                "pets",
+                "flower",
+                "lily"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/medium.jpg"
+            }
+        },
+        {
+            "id": 31,
+            "question": "Can Monstera deliciosa live in water?",
+            "answer": "No, Monstera deliciosa is not a water plant and cannot live in water. This vine prefers warm, semi-shaded areas with moist, well-draining soils. It is sensitive to overwatering, so provide a large pot with well-drained soil, and water only when the top 2 inches of soil are dry. The Monstera plant also likes to climb, so make sure to provide it with plenty of support.",
+            "tags": [
+                "Monstera",
+                "water",
+                "habitat",
+                "living",
+                "Swiss Cheese",
+                "Deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/medium.jpg"
+            }
+        },
+        {
+            "id": 32,
+            "question": "Do monstera Deliciosa have fruits?",
+            "answer": "Yes, Monstera Deliciosa plants produce edible fruits commonly referred to as Monstera Fruits, which are also called Split-Leaf Philodendrons. These fruit have a tropical flavor similar to a combination of banana, pineapple, and mango, with a creamy texture. The fruits can be round or oblong, each ranging in size from 2-6 inches. They start off green and mature to a yellowish color.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Fruit",
+                "Bread fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 45,
+                "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                "original_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/medium.jpg"
+            }
+        },
+        {
+            "id": 33,
+            "question": "Are Monstera Deliciosa fruit edible?",
+            "answer": "Yes, Monstera Deliciosa fruit is edible and is quite delicious. The fruits are often compared to the taste of pineapple, papaya, and banana. When the fruit is fully ripe, it is best to consume immediately, as the flavor quickly deteriorates due to its high sugar content. The green fruit can be boiled, baked, fried, or eaten raw. The taste of the flesh can vary from sour to sweet, depending on the variety of the fruit. Be sure to consume at least the ripe yellow parts of the fruit, as the green areas tend to be a bit bitter.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Bread fruit",
+                "Fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 45,
+                "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                "original_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/medium.jpg"
+            }
+        },
+        {
+            "id": 34,
+            "question": "Are Monstera Deliciosa fruits healthy?",
+            "answer": "Yes, Monstera Deliciosa fruits are healthy. They are a good source of vitamins and minerals, including vitamins A and C which help boost our immunity and support healthy skin, as well as fiber to keep our digestive system in check. These fruits are low in calories and contain zero cholesterol and saturated fats, making them a great addition to any vegetarian or vegan diet. Additionally, Monstera Deliciosa fruits contain compounds known as saponins, which have been shown to have antioxidant and anti-inflammatory effects, helping to protect our cells from oxidative damage.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Bread fruit",
+                "Fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/medium.jpg"
+            }
+        },
+        {
+            "id": 35,
+            "question": "Does Monstera need a lot of sunlight?",
+            "answer": "No, Monstera does not need a lot of sunlight to thrive. In fact, too much direct sunlight can cause the leaves to burn. Instead, Monstera prefers to be positioned in a spot where it gets indirect, filtered light. When growing indoors, place the plant near a window that provides plenty of light but does not expose it to intense, direct sunlight. Providing the plant with a few hours of indirect sunlight a day is ideal for keeping it happy and healthy.",
+            "tags": [
+                "Monstera",
+                "Swiss Cheese",
+                "Sunlight",
+                "Sun",
+                "deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/medium.jpg"
+            }
+        },
+        {
+            "id": 36,
+            "question": "Is a moss pole required for my Monstera?",
+            "answer": "A moss pole is not strictly required for a Monstera plant as it is a climber and can cling to things by itself. However, if you do want to train your Monstera to grow up a moss pole it can be beneficial, as it helps guide the growth and allows you to control the direction of your Monstera's leaves. It's also important to make sure your Monstera is getting the proper support it needs and a moss pole can provide that.",
+            "tags": [
+                "moss",
+                "pole",
+                "monstera",
+                "deliciosa",
+                "swiss cheese"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/medium.jpg"
+            }
+        },
+        {
+            "id": 37,
+            "question": "Can monstera be propagated from a stem cutting?",
+            "answer": "Yes, monstera can be propagated from a stem cutting. This is a relatively straightforward process in which a healthy stem cutting is taken from a mature monstera and placed in moist soil. The soil should be kept moist in a warm, humid location with bright, indirect light. Once the roots begin to form, the cutting can be transplanted into a separate pot for continued growth. Be sure to protect the new cutting from extreme temperatures, excessive direct sunlight, and overwatering.",
+            "tags": [
+                "Monstera",
+                "Cutting",
+                "propagating",
+                "swiss cheese",
+                "deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/medium.jpg"
+            }
+        },
+        {
+            "id": 39,
+            "question": "Is the spider plant easy to care for?",
+            "answer": "Yes, spider plants are very easy to care for. They are know for being a perfect plant for beginner plant parents. They grow well and thrive in bright, indirect areas as well as low-light conditions. They require minimal maintenance with regular watering and occasional pruning or division for larger and fuller mats of foliage. Spider plants are forgiving and are quite drought-resistant, so it's difficult to over-water them. Adding fertilizer once a month during the growing season will help them to thrive even more.",
+            "tags": [
+                "spider plant",
+                "house plant",
+                "indoor plant",
+                "house decor plant",
+                "plant"
+            ],
+            "default_image": {
+                "license": 3,
+                "license_name": null,
+                "license_url": null,
+                "original_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/medium.jpg"
+            }
+        },
+        {
+            "id": 40,
+            "question": "Are spider plants known to improve indoor air quality?",
+            "answer": "Yes, spider plants are known to be one of the most effective houseplants at removing common air pollutants. Spider plants absorb gaseous formaldehyde, carbon monoxide, and xylene from indoor air and convert it into oxygen. They also convert carbon dioxide into oxygen during the day, helping to freshen the air in your home or office. Spider plants also help to reduce indoor humidity levels. They are an excellent choice for improving indoor air quality.",
+            "tags": [
+                "spider plant",
+                "indoor plant",
+                "plant",
+                "homedecor plant",
+                "airpurifing plant"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 41,
+            "question": "Can spider plants grow well in low light conditions?",
+            "answer": "Yes, spider plants are a very easy to care for houseplant that actually prefers a low light condition. They will usually thrive in a bright indirect light area of the home but can easily adapt to lower light conditions. Spider plants are very resilient and can even withstand a few weeks of low light levels before the plants start to suffer.",
+            "tags": [
+                "spider plant",
+                "indoor plant",
+                "plant",
+                "housedecor plant",
+                "house plant"
+            ],
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/medium.jpg"
+            }
+        },
+        {
+            "id": 42,
+            "question": "Do Snake Plants have a long lifespan?",
+            "answer": "Yes, snake plants (also known as mother-in-law's tongue) have a long lifespan. They can live for several years, up to 10-15 years if given proper care. Snake plants are very hardy houseplants, needing minimal attention and able to tolerate a wide range of growing conditions. They are also drought tolerant, making them relatively low maintenance plants. With proper care and good conditions, the lifespan of a snake plant can easily be extended to over 20 years.",
+            "tags": [
+                "snakeplant",
+                "indoor plant",
+                "house plant",
+                "homedecor",
+                "plant care"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 43,
+            "question": "Can Snake Plants grow in low light conditions?",
+            "answer": "Yes, Snake Plants are very tolerant to low light environments and they can survive in almost any kind of light, including fluorescent lighting. They can even survive in areas with no natural light at all. Snake Plants are extremely hardy and can handle a wide range of light conditions, including both direct and indirect light. However, the plants may not thrive or grow as lush or as quickly as plants in brighter light, but they will still survive.",
+            "tags": [
+                "snake plant",
+                "indoor plant",
+                "house decor",
+                "plants",
+                "plant care"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 44,
+            "question": "Should Snake Plants be watered frequently?",
+            "answer": "No, snake plants should not be watered frequently. Snake plants are hardy, drought-tolerant plants, and can withstand dry periods of time. They thrive on limited water, so over-watering can cause their roots to rot. Typically, it is recommended to water snake plants every two to four weeks, depending upon the season. Be sure to always check soil moisture before adding more water, as too much water can cause the leaves to turn yellow or brown.",
+            "tags": [
+                "snake plant",
+                "plant care",
+                "plants",
+                "home decor",
+                "indoor plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/medium.jpg"
+            }
+        },
+        {
+            "id": 45,
+            "question": "Could Snake Plants be used as natural air purifiers?",
+            "answer": "Yes, snake plants can be used as natural air purifiers. These plants are highly efficient at removing a range of toxins from the air, including volatile organic compounds such as formaldehyde, trichloroethylene, xylene, and benzene. Studies have shown that snake plants can reduce indoor air pollutants by as much as 40 to 60 percent when placed strategically around the home. Furthermore, these plants are low-maintenance, easy to care for, and virtually indestructible, making them an ideal choice for those looking to clean up their air quality without spending much time or money.",
+            "tags": [
+                "snake plant",
+                "indoor plant",
+                "house decor",
+                "plants",
+                "houseplant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/medium.jpg"
+            }
+        },
+        {
+            "id": 46,
+            "question": "Is the Peony popular flower in Canada? ",
+            "answer": "Yes, the peony is a popular flower in Canada. It is highly prized for its showy blooms and long-lasting beauty. Peonies have been cultivated in Canada for centuries, and their popularity is due in part to their long-lasting blooms and hardiness in colder temperatures. Peonies are a popular choice in Canadian gardens, and flower arrangements. They are also used in bouquets and centerpieces, where their stunning colors really shine.",
+            "tags": [
+                "peony",
+                "canada",
+                "flower",
+                "plant",
+                "landscapeplant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/medium.jpg"
+            }
+        },
+        {
+            "id": 47,
+            "question": "Are Peonies fragrant? ",
+            "answer": "Yes, peonies are quite fragrant. Depending on the variety of peony, the scent can be described as sweet, floral, and citrusy. Some of the most popular and aromatic varieties of peony include 'Pillow Talk', 'Fairy Tale', and the 'Duchess De Nemours'. Peonies are often used in floral arrangements and can even be grown in your garden for a fresh, summery scent.",
+            "tags": [
+                "peony",
+                "fragrant",
+                "flower",
+                "plant",
+                "landscape plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/medium.jpg"
+            }
+        },
+        {
+            "id": 48,
+            "question": "Can Peonies be grown in partial shade? ",
+            "answer": "Yes, peonies can be grown in partial shade. While they require at least 6 hours of sunlight per day during the first half of the growing season, the second half is best if the plants can receive a few hours of shade. As long as the area is not completely shaded, the peonies should do well. These plants are also hardy, so they can generally thrive in a variety of locations.",
+            "tags": [
+                "peony",
+                "flower",
+                "plant",
+                "partial shade",
+                "peonies"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/medium.jpg"
+            }
+        },
+        {
+            "id": 49,
+            "question": "Do Peonies require well-drained soil? ",
+            "answer": "Yes, peonies do require well-drained soil in order to grow and flourish. Planting them in heavy clay soil can cause the roots to rot, as the soil will stay wet for too long. To ensure good drainage and aeration, it is recommended that the soil is amended with organic matter like compost or peat moss. The soil should also be slightly acidic, with a pH of 6.0-7.0. Additionally, peonies may need to be watered more often during the summer, as they are prone to wilt in hot temperatures.",
+            "tags": [
+                "peony",
+                "soil",
+                "plant",
+                "flower",
+                "fragrance"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/medium.jpg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,3033 @@
+{
+    "plantsData": [
+        {
+            "plant": {
+                "id": 2980,
+                "common_name": "fennel",
+                "scientific_name": [
+                    "Foeniculum vulgare 'Smokey'"
+                ],
+                "other_name": [],
+                "family": "Apiaceae",
+                "origin": [
+                    "Mediterranean"
+                ],
+                "type": "Herb",
+                "dimension": "4.00 to 6.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 4,
+                    "max_value": 6,
+                    "unit": "feet"
+                },
+                "cycle": "Herbaceous Perennial",
+                "attracts": [
+                    "Butterflies"
+                ],
+                "propagation": [
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "9"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2980&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2980&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": {
+                    "amount": 1,
+                    "interval": "yearly"
+                },
+                "seeds": 1,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2980&key=sk-Omzp656896e0da90c3213",
+                "soil": [
+                    "Well-drained"
+                ],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [
+                    "Aphids",
+                    "adelgids",
+                    " Root rot",
+                    " Slugs",
+                    "snails",
+                    "  Drought resistant "
+                ],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": "Summer",
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": true,
+                "edible_fruit": true,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [
+                    "green",
+                    "yellow",
+                    "brown"
+                ],
+                "harvest_season": "Fall",
+                "leaf": true,
+                "leaf_color": [
+                    "silver",
+                    "gray",
+                    "gray"
+                ],
+                "edible_leaf": true,
+                "cuisine": true,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Fennel (Foeniculum vulgare 'Smokey') has an amazing rich flavor and can add a unique aroma to your cooking. This variety has a mild aniseed flavor with a hint of smokiness, making it a great addition to many dishes. It's easy to grow, tolerating partial shade, and is attractive with its delicate licorice-scented foliage. It's also an excellent food source for bees and other beneficial insects, making it both edible and a great companion plant for your garden. Fennel is an all-round amazing plant that adds a unique flavor to your meals.",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2980_foeniculum_vulgare_smokey/og/1280px-Foeniculum_vulgare_E.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2980_foeniculum_vulgare_smokey/regular/1280px-Foeniculum_vulgare_E.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2980_foeniculum_vulgare_smokey/medium/1280px-Foeniculum_vulgare_E.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2980_foeniculum_vulgare_smokey/small/1280px-Foeniculum_vulgare_E.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2980_foeniculum_vulgare_smokey/thumbnail/1280px-Foeniculum_vulgare_E.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12161,
+                    "type": "watering",
+                    "description": "Fennel (Foeniculum vulgare 'Smokey') is best watered when the soil is almost, but not quite, dry. A good way to gauge this is to stick your finger into the soil and check the moisture level. During the growing season (spring through fall), it is recommended to water the fennel plant every 7-10 days, giving enough water to evenly moisten the soil. Depending on your climate, you may need to increase or decrease the frequency of watering as necessary. In the winter months, fennel should be watered only sparingly."
+                },
+                {
+                    "id": 12162,
+                    "type": "sunlight",
+                    "description": "Fennel (Foeniculum vulgare 'Smokey') need 6 to 8 hours of direct sunlight per day for optimal growth. The best time of day for fertil to receive plenty of direct sunlight is early morning sun or late afternoon. Avoid exposing Fennel to intense midday sunlight, which can stress the plant. Potted Fennel should be placed in an area where it can receive 8 hours of filtered sunlight. During the summer months, Fennel should be placed in a position that receives a little morning shade, and then full sun for the rest of the day."
+                },
+                {
+                    "id": 12163,
+                    "type": "pruning",
+                    "description": "Fennel (Foeniculum vulgare 'Smokey') is a hardy perennial plant that should be pruned annually in late winter or early spring. Pruning helps to keep the plant looking neat and tidy and encourages new growth. It can also encourage a bushier plant with more flowering stems. \n\nTo prune Fennel, begin by removing dead and damaged stems. Next, thin any tall, spindly stems, as well as any crossing, overcrowded or weak stems. Cut these down to a healthy lateral stem, cutting at least 1-third below the existing growth tip. Allow the remaining stems to remain in place, but trim them back to the desired height (generally, this is between 18-24 inches). Finally, tip-prune the remaining stem tips, cutting back a few inches to encourage bushy growth. This should be done annually in the early spring, before the plant begins to actively grow."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2981,
+                "common_name": "fokienia",
+                "scientific_name": [
+                    "Fokienia hodginsii"
+                ],
+                "other_name": [],
+                "family": "Cupressaceae",
+                "origin": [
+                    "China",
+                    "Laos",
+                    "Vietnam"
+                ],
+                "type": "Needled evergreen",
+                "dimension": "25.00 to 35.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 25,
+                    "max_value": 35,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Seed Propagation",
+                    "Cutting",
+                    "Grafting Propagation",
+                    "Layering Propagation",
+                    "Division"
+                ],
+                "hardiness": {
+                    "min": "8",
+                    "max": "9"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2981&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2981&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inch",
+                    "value": "1"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "May",
+                    "June",
+                    "July",
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2981&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": true,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "High",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Non-flowering",
+                "cones": true,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Fokienia (Fokienia hodginsii) is an amazing species of plant. It is a conifer native to China and Vietnam, able to reach heights of 30m. Their needled foliage is dark green, making them a great addition to any garden or landscape. The stems of the Fokienia are thick and fibrous, allowing them to become strong and resistant to wind, and the bark is reddish-brown. Fokienia emits a special fragrance and their cones are softly spiky. It is also highly resistant to drought, and is great for use in rock gardens, flower beds, and woodland gardens. This makes it a great choice for those looking for a reliable and beautiful addition to their gardens.",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2981_fokienia_hodginsii/og/Fokienia_hodginsii_kz1.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2981_fokienia_hodginsii/regular/Fokienia_hodginsii_kz1.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2981_fokienia_hodginsii/medium/Fokienia_hodginsii_kz1.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2981_fokienia_hodginsii/small/Fokienia_hodginsii_kz1.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2981_fokienia_hodginsii/thumbnail/Fokienia_hodginsii_kz1.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12164,
+                    "type": "watering",
+                    "description": "Fokienia (Fokienia hodginsii) is a slow-growing conifer that requires adequate water during its growth season (March-September). Water the plant with 1 inch of water per week during this period. In the fall and winter, allow the soil to dry between watering, watering only when the soil is dry 2-3 inches deep. When watering, use caution as Fokienia does not tolerate overly wet or waterlogged soils."
+                },
+                {
+                    "id": 12165,
+                    "type": "sunlight",
+                    "description": "Fokienia hodginsii prefers quite a bit of sunlight throughout the day. It should receive partial or full sun for at least 6 hours a day, but for optimal health, 8-10 hours is recommended. It usually does best in the morning and afternoon, as opposed to direct, hot afternoon sunlight for long periods of time. If it is placed in too much sunlight, however, its leaves will start to curl and yellow."
+                },
+                {
+                    "id": 12166,
+                    "type": "pruning",
+                    "description": "Fokienia hodginsii, commonly known as Chinese cypress, should be pruned lightly and selectively in order to maintain its natural shape and encourage vigorous new growth. Prune in late spring or early summer just before new growth appears. Promptly remove any dead or diseased wood, cutting back to the healthy wood. Remove crossing or intertwined branches, as well as any overly-long branches. If needed, thin out the branches for better air circulation, but take care not to remove too many in 1 season. You may also prune for aesthetics, such as removing branches that detract from the natural look of the tree. It is best to avoid heavily pruning Chinese cypress as it can damage the shape and limit new growth."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2982,
+                "common_name": "forsythia",
+                "scientific_name": [
+                    "Forsythia 'Arnold Dwarf'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "2.00 to 3.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 2,
+                    "max_value": 3,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2982&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2982&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "February",
+                    "March",
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2982&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": null,
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Forsythia 'Arnold Dwarf' is a compact shrub, making it a great choice for small gardens. It produces an abundance of bright yellow flowers in the spring, providing a dazzling show of bold contrast in the garden. The leaves are also strikingly beautiful, displaying shades of yellow and green giving the overall appearance of the shrub an amazing look. Furthermore, it is quite low maintenance and easy to care for, making it an ideal choice for anyone looking for an attractive shrub that requires minimal upkeep.",
+                "default_image": {
+                    "license": 451,
+                    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2982_forsythia_arnold_dwarf/og/pexels-photo-7461404.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2982_forsythia_arnold_dwarf/regular/pexels-photo-7461404.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2982_forsythia_arnold_dwarf/medium/pexels-photo-7461404.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2982_forsythia_arnold_dwarf/small/pexels-photo-7461404.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2982_forsythia_arnold_dwarf/thumbnail/pexels-photo-7461404.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12167,
+                    "type": "watering",
+                    "description": "Forsythia 'Arnold Dwarf' should be watered once per week during the growing season. During this period of time, give the shrub a deep soaking that ensures the top few inches of soil become moist and provide enough water so that some drains out of the bottom of the pot. During the fall and winter months, water only when the soil has become dry. Always check the soil before watering to determine if it is in need."
+                },
+                {
+                    "id": 12168,
+                    "type": "sunlight",
+                    "description": "Forsythia 'Arnold Dwarf' is a deciduous shrub that thrives in full sun. This plant species needs at least 5-7 hours of direct sunlight a day in the spring and summer, and can tolerate some shade in the winter months. This plant species does best when grown in an area with good air circulation and soil that is well-draining and rich in organic matter. Although the plant prefers full sun, it can also tolerate partial shade in the afternoon. When given the proper amount of sunlight, Forsythia 'Arnold Dwarf' will bloom heavily with yellow-green flowers in the spring."
+                },
+                {
+                    "id": 12169,
+                    "type": "pruning",
+                    "description": "When pruning a Forsythia 'Arnold Dwarf' plant, the best time of year is late winter or early spring before the new growth emerges. This is usually around late February or March for most climates. Forsythia 'Arnold Dwarf' flowers before the foliage emerges so it is important to prune only after flowering has finished in order to not affect the plant’s blooming.\n\nAmount of pruning depends on the desired shape of the plant. This species of Forsythia has an upright-arching habit but can educated to fit in a smaller space will need more pruning. The main goal of pruning is to keep the plant healthy and encourage more flowering. When pruning, focus on removing only dead, broken and diseased branches. Remove no more than 1/3 of the plant in a single season otherwise it may not bloom."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2983,
+                "common_name": "forsythia",
+                "scientific_name": [
+                    "Forsythia 'Courtacour' GOLDILOCKS"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "2.00 to 3.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 2,
+                    "max_value": 3,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Layering Propagation",
+                    "Cutting",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2983&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2983&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "yellow"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "gray-brown"
+                        ]
+                    },
+                    {
+                        "part": "bud",
+                        "color": [
+                            "green"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "March",
+                    "April",
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2983&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "gold",
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Forsythia 'Courtacour' GOLDILOCKS is a stunning plant that is perfect for brightening up any garden. This deciduous shrub will produce an abundance of yellow bell-shaped flowers in spring above slender green foliage. Not only does this plant produce beautiful blooms, it is also low-maintenance and easy to care for, making it ideal for beginner gardeners. During autumn, the large green leaves will turn to a dazzling golden-yellow providing a pop of autumnal colour to your garden. Its fast-growing nature also means you can enjoy its beauty all year round. Forsythia 'Courtacour' GOLDILOCKS is truly an amazing plant.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2983_forsythia_courtacour_goldilocks/og/52051721986_b6e005f235_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2983_forsythia_courtacour_goldilocks/regular/52051721986_b6e005f235_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2983_forsythia_courtacour_goldilocks/medium/52051721986_b6e005f235_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2983_forsythia_courtacour_goldilocks/small/52051721986_b6e005f235_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2983_forsythia_courtacour_goldilocks/thumbnail/52051721986_b6e005f235_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12170,
+                    "type": "watering",
+                    "description": "Forsythia 'Courtacour' GOLDILOCKS are best watered weekly and deeply, so that the soil is evenly moist but never soggy. To avoid over-watering, allow the soil to dry out slightly between watering. The best way to check if your plant needs water is to stick your finger in the soil up to the first knuckle - if the soil is still damp, wait a few days to water. In the summer months, the plant may need more frequent watering, especially if it is in a pot, as the dryer air and soil may cause it to dry out faster. In the winter months, be sure to reduce the amount of water and allow the soil to stay on the dry side."
+                },
+                {
+                    "id": 12171,
+                    "type": "sunlight",
+                    "description": "Forsythia 'Courtacour' GOLDILOCKS thrive in full sunlight. They need at least 5 to 6 hours of direct sunlight throughout the day for optimal health and flower production. During periods of extreme heat, they like some afternoon shade, though too much shade will reduce flower production. In the mornings, it's best to keep the intense sun off of them, so placing the plants in the partial shade during this time will benefit them. With proper sunlight and a regular maintenance routine, Forsythia 'Courtacour' GOLDILOCKS will bring abundant blooms and bright colors to your garden throughout the spring and summer."
+                },
+                {
+                    "id": 12172,
+                    "type": "pruning",
+                    "description": "Forsythia 'Courtacour' GOLDILOCKS should be pruned in late winter or early spring, just before the start of new growth. Cut all side branches back to half their length, as well as any dead, diseased, or damaged branches. It should be pruned to maintain a pleasing shape and to encourage the development of healthful new growth. To ensure abundant flowers, wait until after they have bloomed in the spring before pruning. It is best to approach pruning a Forsythia 'Courtacour' GOLDILOCKS thoughtfully and with a plan in mind, as pruning can be somewhat severe and will remove flowers if done incorrectly."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2984,
+                "common_name": "forsythia",
+                "scientific_name": [
+                    "Forsythia 'Courtasol' GOLD TIDE"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "1.00 to 2.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 1,
+                    "max_value": 2,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Layering Propagation",
+                    "Cutting",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2984&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2984&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "June",
+                    "July",
+                    "June",
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2984&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "gold",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Forsythia 'Courtasol' GOLD TIDE is an amazing plant because its vibrant display of golden yellow flower clusters bring cheer to any garden. Its ability to fruit beforing the leaves appear make it one of the earliest blooming shrubs and its upright form with a slightly weeping habit ensure this plant is brilliant for filling out duller corners of any garden. It is a deciduous shrub which means it will remain compact and its lustrous leaves will change deep red or purple in the autumn. 'Courtasol' GOLD TIDE thrives in cooler climates and is a great choice for borders, walls or hedges. Its sunny disposition and low-maintenance nature make it a must have for any avid gardener.",
+                "default_image": {
+                    "license": 451,
+                    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2984_forsythia_courtasol_gold_tide/og/forsythia-gold-lilac-flower-blossom.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2984_forsythia_courtasol_gold_tide/regular/forsythia-gold-lilac-flower-blossom.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2984_forsythia_courtasol_gold_tide/medium/forsythia-gold-lilac-flower-blossom.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2984_forsythia_courtasol_gold_tide/small/forsythia-gold-lilac-flower-blossom.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2984_forsythia_courtasol_gold_tide/thumbnail/forsythia-gold-lilac-flower-blossom.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12173,
+                    "type": "watering",
+                    "description": "Forsythia ‘Courtasol’ GOLD TIDE is a hardy shrub that requires regular watering. This is especially true during spring when flowering begins. During this period, ample water should be provided, approximately once a week, in the form of deep watering. Water should be applied slowly and deeply to avoid soil erosion or runoff. Soil should be monitored to ensure that it remains moist but not soggy. Watering can be reduced once flowering has stopped, usually in late spring to early summer. During the summer, less frequent watering is recommended, approximately every 2 weeks. However, if the plant is in an exposed area or during times of extreme temperatures, more frequent watering may be necessary. Additionally, mulching the soil around the plant will help keep the moisture in and help reduce the need for frequent watering. As autumn approaches, gradually reduce the frequency of watering should be reduced. In winter, Forsythia ‘Courtasol’ GOLD TIDE should only be watered as needed."
+                },
+                {
+                    "id": 12174,
+                    "type": "sunlight",
+                    "description": "Forsythia 'Courtsol' GOLD TIDE is a deciduous shrub that requires full sun, at least 6 hours per day, to maintain its vibrant gold foliage and abundant flowers. During the summer months, this plant prefers direct sunlight to help it grow and produce its beautiful vibrant yellow blooms. During the winter months, it may be beneficial to reduce the amount of sunlight to give the shrub a rest period. Please note that exposure to temperatures below 10°C (50°F) may cause extensive damage to its foliage."
+                },
+                {
+                    "id": 12175,
+                    "type": "pruning",
+                    "description": "Forsythia 'Courtsol' GOLD TIDE should be pruned in early summer (mid- to late-June) just after the flowering period has ended. Prune back 1-third of the old woody stems, cutting just above an outward facing bud. Remove any dead or broken branches, and any crossed branches that can't be easily separated. Since forsythia grows quickly, it may require additional pruning to remove any excessively long stems or other areas of overgrowth."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2985,
+                "common_name": "forsythia",
+                "scientific_name": [
+                    "Forsythia 'Fiesta'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "2.00 to 3.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 2,
+                    "max_value": 3,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Layering Propagation",
+                    "Cutting",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2985&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2985&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": "morning",
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": {
+                    "amount": 1,
+                    "interval": "yearly"
+                },
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2985&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Forsythia 'Fiesta' is gorgeous spring-blooming shrub with bright-yellow bell-shaped flowers. It is hardy and easy to care for, making it an ideal addition for any garden. It is low-maintenance, and should be planted in well-draining soil with lots of sunlight. Its vibrant yellow flowers will provide your garden with a splash of colour in springtime. Forsythia 'Fiesta' prefers moist, but not overly wet soil and can be grown in hardiness zones 4-9. Its beauty will last for weeks, and when properly cared for, this shrub will reward you with year after year of joy.",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2985_forsythia_fiesta/og/27738333626_3c1f8f7be2_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2985_forsythia_fiesta/regular/27738333626_3c1f8f7be2_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2985_forsythia_fiesta/medium/27738333626_3c1f8f7be2_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2985_forsythia_fiesta/small/27738333626_3c1f8f7be2_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2985_forsythia_fiesta/thumbnail/27738333626_3c1f8f7be2_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12176,
+                    "type": "watering",
+                    "description": "Forsythia 'Fiesta' is a strong and reliable plant that is relatively drought-tolerant once established. Water your Forsythia 'Fiesta' regularly when temperatures rise and rainfall levels are low. You should continue watering the plant until mid-fall, about every 7 to10 days, or until the top of the soil is dry. During cooler and wetter periods, you can cut back on watering but make sure the soil does not dry out completely. Make sure to water your Forsythia 'Fiesta' in the morning and avoid overwatering your plant, since this can lead to root rot."
+                },
+                {
+                    "id": 12177,
+                    "type": "sunlight",
+                    "description": "Forsythia 'Fiesta' plants prefer full sun, which means 6-8 hours of direct sunlight daily. They will also tolerate some partial shade, particularly during the midday hours when the sun is the most intense. In general, Forsythia 'Fiesta' plants will thrive with more sun than shade and will need several hours of direct sunlight for health and flowering. The best time for sun exposure is in the morning, when the temperature is lower and the sun is brightest. This will encourage new growth and promote healthy blooms."
+                },
+                {
+                    "id": 12178,
+                    "type": "pruning",
+                    "description": "For Forsythia 'Fiesta', pruning should done annually in late winter or early spring. The amount of pruning depends on the desired shape and size of the shrub. For the first year after planting, cut back all the stems to about 8 to 12 inches, then allow it to re-grow to the desired height within the next 4 to 6 months. For subsequent years, prune out a small amount of the older wood and trim back wayward branches to the desired shape, leaving strong buds or branches that will grow from the center. This will encourage a more bushier growth form and help reduce the chance of creating a bare center."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2987,
+                "common_name": "border forsythia",
+                "scientific_name": [
+                    "Forsythia intermedia 'Arnold Giant'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "8.00 to 10.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 8,
+                    "max_value": 10,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2987&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2987&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inch",
+                    "value": "1"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "lime-yellow"
+                        ]
+                    },
+                    {
+                        "part": "branches",
+                        "color": [
+                            "grey-brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2987&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Border Forsythia is an amazing and attractive shrub that produces sweet smelling yellow flowers in brightest shades. Its beauty is unparalleled and sets it apart from other plant species. It produces a stunning display of blooms in the early spring and provides stunning color for a full season of growth. The dense foliage can hold on through the winter and its bright yellow blooms will delight any garden. This is a highly tolerant plant that is not too particular about soil types and stands up to most climate conditions. Border Forsythia is a perfect plant for anyone looking for a beautiful, stunning, and hardy shrub.",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2987_forsythia_intermedia_arnold_giant/og/20160408Forsythia_x_intermedia1.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2987_forsythia_intermedia_arnold_giant/regular/20160408Forsythia_x_intermedia1.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2987_forsythia_intermedia_arnold_giant/medium/20160408Forsythia_x_intermedia1.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2987_forsythia_intermedia_arnold_giant/small/20160408Forsythia_x_intermedia1.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2987_forsythia_intermedia_arnold_giant/thumbnail/20160408Forsythia_x_intermedia1.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12182,
+                    "type": "watering",
+                    "description": "Border Forsythia should be watered deeply once a week, allowing the soil to dry out slightly between waterings. When watering the plant, be sure to soak the root zone. Each week, provide the plant with approximately 1 inch of water. During extended periods of hot, dry weather, the plant should be given even more water. Always avoid overwatering, as too much water can cause waterlogged soil, which can lead to root rot."
+                },
+                {
+                    "id": 12183,
+                    "type": "sunlight",
+                    "description": "Border forsythia (Forsythia intermedia 'Arnold Giant') will need full sun to help it thrive. This means it should get a minimum of 6 hours of direct sunlight a day to promote healthy growth. However, it can tolerate partial shade, especially during the hottest parts of the day. If you live in a hot climate, you may want to provide some afternoon shade to keep this plant from becoming scorched. Additionally, you'll need to ensure the plant is receiving regular irrigation to keep its soil consistently moist."
+                },
+                {
+                    "id": 12184,
+                    "type": "pruning",
+                    "description": "It is best to prune border forsythia (Forsythia intermedia 'Arnold Giant') just after it has finished blooming. This is typically in late spring after it has had a chance to flower. It is best to remove about 1-third of the length of the main stems in order to encourage a fairly dense and compact shrub. You can also selectively prune away a few of the older stems at ground level, again to encourage the growth of younger stems that will have more flowers. Avoid over-pruning, as it can promote leggy growth and decrease flowering."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2989,
+                "common_name": "border forsythia",
+                "scientific_name": [
+                    "Forsythia intermedia 'Flojor' MINIGOLD"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "Japan"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "1.50 to 2.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 1.5,
+                    "max_value": 2,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Layering Propagation",
+                    "Cutting",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2989&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2989&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "yellow"
+                        ]
+                    },
+                    {
+                        "part": "stamens",
+                        "color": [
+                            "yellow"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "February",
+                    "March",
+                    "April",
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2989&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "gold",
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Border Forsythia (Forsythia intermedia 'Flojor' MINIGOLD) is a showstopping small shrub that is one of the first plants to bloom in the late winter/early spring. It is covered in clusters of small, bright yellow flowers that light up the surrounding landscape. Its arching branches are covered in lively foliage during the summer and become a beautiful golden hue in the fall. Border Forsythia is incredibly low maintenance and is a hardy and adaptable species in most climates, making it a great addition to any garden. With its stunning floral display, lovely foliage, and ease of care, Border Forsythia is an amazing addition to any garden.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2989_forsythia_intermedia_flojor_minigold/og/4527384747_74ee433a1e_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2989_forsythia_intermedia_flojor_minigold/regular/4527384747_74ee433a1e_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2989_forsythia_intermedia_flojor_minigold/medium/4527384747_74ee433a1e_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2989_forsythia_intermedia_flojor_minigold/small/4527384747_74ee433a1e_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2989_forsythia_intermedia_flojor_minigold/thumbnail/4527384747_74ee433a1e_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12188,
+                    "type": "watering",
+                    "description": "Water Border Forsythia (Forsythia intermedia 'Flojor' MINIGOLD) deeply but infrequently in spring and summer. The soil should be allowed to dry out slightly between waterings. Be sure to water thoroughly, as Forsythia does not like to have its roots sitting in wet soil. In fall and winter, reduce watering to once or twice a month. To encourage new growth, apply an organic or slow-release fertilizer in early spring."
+                },
+                {
+                    "id": 12189,
+                    "type": "sunlight",
+                    "description": "Border forsythia will thrive in an area with full sun to partial shade, receiving at least 4 to 6 hours of direct sunlight each day. The best time for sunlight for border forsythia is early to mid-morning, followed by a little shade in the afternoon. This kind of exposure will be beneficial for the plant in the summer months, when the temperatures are higher. Avoid putting border forsythia in areas with too much direct afternoon sun, as this can severely damage the plant."
+                },
+                {
+                    "id": 12190,
+                    "type": "pruning",
+                    "description": "Border forsythia should be pruned in late winter or early spring before it blooms. This plant typically blooms in late winter/early spring, so it's important to prune before the flowers appear. \n\nStart by removing dead, diseased and damaged wood. Then, thin out any crowded or weak branches. This will increase airflow and ensure good growth. Prune branches back to their point of origin and maintain a generally rounded shape. \n\nIt's important to give border forsythia a good trim every 2-3 years to encourage new growth and flowering. However, if it gets overly large or unruly it can be pruned more often. Light pruning can be done throughout the growing season as well, if needed."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2990,
+                "common_name": "forsythia",
+                "scientific_name": [
+                    "Forsythia intermedia 'Gold Leaf'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "3.00 to 5.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 3,
+                    "max_value": 5,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "9"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2990&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2990&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "8"
+                },
+                "volume_water_requirement": [],
+                "watering_period": "morning",
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "pale-white"
+                        ]
+                    },
+                    {
+                        "part": "sepals",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2990&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "gold",
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Forsythia intermedia 'Gold Leaf' is an amazing deciduous shrub with bright yellow bell-shaped flowers that appear in early spring. Its vibrant golden-yellow foliage adds a dramatic brilliance to the garden. It is also very tolerant of most soils and prefers full sun to partial shade. Once established, it is drought tolerant and requires minimal maintenance. The shrub also produces clusters of delicate yellow flowers, making it very popular among gardeners. Its showy blooms make it a standout garden accent and great landscape addition. As an added bonus, it can be easily propagated and its flowers make excellent cut flowers too.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2990_forsythia_intermedia_gold_leaf/og/52036567415_22ee79de8a_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2990_forsythia_intermedia_gold_leaf/regular/52036567415_22ee79de8a_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2990_forsythia_intermedia_gold_leaf/medium/52036567415_22ee79de8a_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2990_forsythia_intermedia_gold_leaf/small/52036567415_22ee79de8a_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2990_forsythia_intermedia_gold_leaf/thumbnail/52036567415_22ee79de8a_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12191,
+                    "type": "watering",
+                    "description": "Forsythia plants should be deeply watered twice a week when temperature and soil conditions are dry. Water slowly and deeply to allow the water to penetrate 6-8 inches into the soil. Once established, water once a week during times of drought, preferably in the morning. Check for moisture in the top several inches of soil and water if the soil is dry. Avoid overwatering, since this can cause the roots to rot."
+                },
+                {
+                    "id": 12192,
+                    "type": "sunlight",
+                    "description": "Forsythia (Forsythia intermedia 'Gold Leaf') require a minimum of 5 hours of direct sunlight per day to thrive. For best growth and flowering, it should receive as much as 6 or 8 hours of direct sunlight each day. If possible, the sun should be provided from mid-morning to mid-afternoon, with some shade during the hottest part of the day being beneficial. On days with extreme heat, it may be beneficial to provide some protection in the form of a shade cloth or awning. Ensure that your Forsythia is not placed in an area that will receive heavy frost or winds, as these can be damaging to the plant."
+                },
+                {
+                    "id": 12193,
+                    "type": "pruning",
+                    "description": "Forsythia (Forsythia intermedia 'Gold Leaf') should be pruned lightly immediately after flowering. Pruners should remove dead or damaged branches and thin out weak and overcrowded stems. Cutting back 1/3 of the oldest stems each year will help promote new growth. Light pruning can also be done in late winter to early spring to help shape the plant or remove unneeded stems. It is best to avoid heavy or drastic pruning as this can significantly reduce flowering for the following season."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2992,
+                "common_name": "border forsythia",
+                "scientific_name": [
+                    "Forsythia intermedia 'Lynwood Variety'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "6.00 to 9.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 6,
+                    "max_value": 9,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2992&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2992&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "",
+                    "value": ""
+                },
+                "volume_water_requirement": [],
+                "watering_period": "morning",
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "stems",
+                        "color": [
+                            "brown"
+                        ]
+                    },
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "yellow"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "March",
+                    "April",
+                    "May",
+                    "June",
+                    "July",
+                    "August",
+                    "September"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2992&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Border Forsythia is an amazing deciduous shrub with light yellow flowers and stunning deep green oval-shaped foliage. Its shows of bright yellow flowers in mid-spring are sure to create an eye-catching statement in your landscape. 'Lynwood Variety' is a more compact form of Border Forsythia, making it ideal for planting in tight spaces. It can thrive in most soil types, including clay, and resists wilting during hot and dry spells. It's evergreen foliage remains attractive all year round and can be used as a hedge or to provide screening. Also, unlike other Forsythia varieties, it doesn't need pruning to keep its shape. These features make Border Forsythia a wonderful addition to any garden or landscape.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2992_forsythia_intermedia_lynwood_variety/og/26367694312_017a6fa365_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2992_forsythia_intermedia_lynwood_variety/regular/26367694312_017a6fa365_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2992_forsythia_intermedia_lynwood_variety/medium/26367694312_017a6fa365_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2992_forsythia_intermedia_lynwood_variety/small/26367694312_017a6fa365_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2992_forsythia_intermedia_lynwood_variety/thumbnail/26367694312_017a6fa365_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12197,
+                    "type": "watering",
+                    "description": "Border Forsythia is best watered 1-2 times per week, depending on the weather. When it is warm and the soil is drying out quickly, it may need to be watered more often, but during cooler weather it can do with less. It also helps to water in the morning or evening, as this will help reduce evaporation. During especially hot and dry spells, a deep watering each week of about an inch or 2 is ideal, as this will help the plant develop strong roots."
+                },
+                {
+                    "id": 12198,
+                    "type": "sunlight",
+                    "description": "Border forsythia (Forsythia intermedia ‘Lynwood Variety’) thrive best in full sun. In order to produce its vibrant yellow blooms each spring, it needs at least 6 hours of unfiltered sunlight each day. The more sun it receives, the more flowers will bloom over the season. Plant in a location that is sheltered from strong winds to help protect the delicate blooms."
+                },
+                {
+                    "id": 12199,
+                    "type": "pruning",
+                    "description": "Border Forsythia can be pruned in late winter or early spring. Pruning should remove only 1-third of the oldest stems each year, cutting them at the base, just above ground level. Additionally, remove any congested, dead, or damaged branches anytime throughout the growing season to ensure healthy plant growth."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2993,
+                "common_name": "border forsythia",
+                "scientific_name": [
+                    "Forsythia intermedia 'Mindor' SHOW OFF"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "3.00 to 6.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 3,
+                    "max_value": 6,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Layering Propagation",
+                    "Cutting",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2993&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2993&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "",
+                    "value": ""
+                },
+                "volume_water_requirement": [],
+                "watering_period": "morning",
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "December",
+                    "January",
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2993&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Border Forsythia (Forsythia intermedia 'Mindor' SHOW OFF) is an excellent deciduous shrub and perfect for brightening up the yard. It can be used to provide a bright, sunny background to a garden that looks great up close or far away. Its eye-catching blooms will arrive before the foliage appears with its bright yellow color to light up the garden. It is easy to maintain, branching well into an upright, dense, wide shrub. This hardy plant thrives in sunny spots with moist and well-drained soil and can tolerate some shade. This easy-going plant needs just a light pruning after blooming to maintain its shape and look great all season long. Border Forsythia is an ideal choice for providing cheerful color and a lovely backdrop to any garden.",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2993_forsythia_intermedia_mindor_show_off/og/Forsythia_intermedia_a1.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2993_forsythia_intermedia_mindor_show_off/regular/Forsythia_intermedia_a1.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2993_forsythia_intermedia_mindor_show_off/medium/Forsythia_intermedia_a1.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2993_forsythia_intermedia_mindor_show_off/small/Forsythia_intermedia_a1.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2993_forsythia_intermedia_mindor_show_off/thumbnail/Forsythia_intermedia_a1.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12200,
+                    "type": "watering",
+                    "description": "Border Forsythia (Forsythia intermedia 'Mindor' SHOW OFF) should be watered regularly with about an inch of water per week, so that the soil can remain consistently moist. This species prefers cooler temperatures, so water once the top layer of soil has started to dry out. It is better to water less often but more deeply than to water frequently and lightly. As a rule, water early in the morning so that any excess moisture on the foliage can evaporate before nightfall and help reduce the risk of fungal diseases. If Border Forsythia is being grown in containers, focus on watering just the base of the plant to avoid any water accumulating in the tray which can drown the roots."
+                },
+                {
+                    "id": 12201,
+                    "type": "sunlight",
+                    "description": "Border forsythia needs full sun to grow and will bloom best with 4-6 hours of sunlight each day. This species prefers moist, well-draining soil and does not tolerate either extreme wetness or dryness. Morning sun is especially beneficial, as it provides the plant with warmth which will help it develop new buds and blooms. Additionally, as the day progresses, plants in this species will start to become exposed to more light and therefore will receive more photosynthetically active radiation for their growth. When kept in optimal conditions, border forsythia will bloom yearly for an extended period of time."
+                },
+                {
+                    "id": 12202,
+                    "type": "pruning",
+                    "description": "Border Forsythia should be pruned at the end of winter or early spring before new growth emerges. Prune the stems back to the desired size and shape to keep it tidy and remove overcrowded or dead stems to promote air circulation and sunlight penetration. The ideal size should be 1/3 of the original size for the best flowering display. When pruning, cut the stems to about 4-5 inches from the ground for a nice, low cushion shape. Be sure to remove any dead or damaged stems, and do not prune more than 1 third of the stems from the shrub in a single session to avoid shock to the plant. If more pruning is needed, spread it out over multiple years."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2994,
+                "common_name": "border forsythia",
+                "scientific_name": [
+                    "Forsythia intermedia 'Sunrise'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "4.00 to 6.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 4,
+                    "max_value": 6,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2994&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2994&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "12"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "lemon-yellow"
+                        ]
+                    },
+                    {
+                        "part": "sepals",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "March",
+                    "April",
+                    "May"
+                ],
+                "pruning_count": {
+                    "amount": 1,
+                    "interval": "yearly"
+                },
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2994&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Bright yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Border Forsythia is an amazing plant and an ideal addition to any garden. This deciduous shrub is easy to maintain, providing a show of cheery yellow blooms in early spring before most other plants arrive. Its bright yellow flowers burst from bud in late winter to early spring. The foliage is an attractive mix of dark green, which adds to this plant's year round beauty. This hardy shrub is self-seeding, has fragrant blooms, and is both deer resistant and drought tolerant. During summer, tiny rounded green leaves and golden yellow foliage are a sight to behold. Perfect to brighten up the garden and attract wildlife, Border Forsythia deserves to be appreciated for its multi-seasonal color and beauty.",
+                "default_image": {
+                    "license": 4,
+                    "license_name": "Attribution License",
+                    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2994_forsythia_intermedia_sunrise/og/4592591556_84b8f7f51b_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2994_forsythia_intermedia_sunrise/regular/4592591556_84b8f7f51b_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2994_forsythia_intermedia_sunrise/medium/4592591556_84b8f7f51b_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2994_forsythia_intermedia_sunrise/small/4592591556_84b8f7f51b_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2994_forsythia_intermedia_sunrise/thumbnail/4592591556_84b8f7f51b_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12203,
+                    "type": "watering",
+                    "description": "Border forsythia should be watered deeply once a week, to a depth of 8-12 inches. During periods of extreme heat, it may be necessary to increase the frequency of watering to twice per week. Water thoroughly, allowing water to penetrate to the root system at the base of the plant. Avoid wetting the foliage during the watering process, as this can attract fungal disease. Soil should be allowed to dry out between waterings."
+                },
+                {
+                    "id": 12204,
+                    "type": "sunlight",
+                    "description": "Border forsythia (Forsythia intermedia 'Sunrise') should be grown in full sun, meaning at least 6 hours of direct sunlight each day, to ensure good flowering. This plant species can tolerate partial shade during the afternoon, however it should be provided with at least 4 hours of direct sunlight daily in order to promote healthy growth. Although this plant species is quite tolerant of full sun, it may be at risk for damage in extremely hot climates, so it is important to provide some protection in such conditions."
+                },
+                {
+                    "id": 12205,
+                    "type": "pruning",
+                    "description": "When pruning a border forsythia (Forsythia intermedia 'Sunrise') it should be done annually in the late winter or very early spring, when the plant is still dormant. Pruning at this time will ensure maximum flowering during the spring. This shrub should be pruned only after it has flowered, as cutting the stems before it flowers will shorten its bloom period. When pruning, cuts should be made on a slight angle roughly 1-third of the way into the previous year's growth. Regular pruning will help keep the shrub looking neat and encourage more prolific flowering."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2995,
+                "common_name": "border forsythia",
+                "scientific_name": [
+                    "Forsythia intermedia 'Variegata'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "8.00 to 10.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 8,
+                    "max_value": 10,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Division",
+                    "Grafting Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2995&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2995&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "margins",
+                        "color": [
+                            "yellow"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "burgundy"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2995&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "Moderate",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Moderate",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow",
+                    "white"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Border Forsythia is truly an amazing plant. Its variegated foliage and bright yellow spring flowers make it a stunning focal point in any garden. Its foliage is a mix of green and white with variegated edges, and the yellow flowers blossom in the late winter and early spring. It’s an incredible winter survivor too, thriving in temperatures down to -30F and surviving frosts with no problem. With its thick, mounded silhouette and showy blooms, it can make even the gloomiest winter come alive. Its height and width make it an ideal backdrop or border for any landscape and its easy-care nature ensures it will thrive in almost any condition. No wonder it's been a popular choice for gardeners for years!",
+                "default_image": {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_image/2995_forsythia_intermedia_variegata/og/Forsythia_-intermedia-golden-times2.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2995_forsythia_intermedia_variegata/regular/Forsythia_-intermedia-golden-times2.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2995_forsythia_intermedia_variegata/medium/Forsythia_-intermedia-golden-times2.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2995_forsythia_intermedia_variegata/small/Forsythia_-intermedia-golden-times2.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2995_forsythia_intermedia_variegata/thumbnail/Forsythia_-intermedia-golden-times2.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12206,
+                    "type": "watering",
+                    "description": "Border Forsythia should be watered deeply and regularly to ensure optimal growth. In general, the plant should be watered once or twice a week during the summer months. During the winter months, water should be reduced to once every 2 to 4 weeks, as the weather is cooler and the plant is dormant. When watering, soak the soil thoroughly and then allow it to dry slightly before watering again. This will help the root system develop deeper into the soil and help to promote stronger plants."
+                },
+                {
+                    "id": 12207,
+                    "type": "sunlight",
+                    "description": "Border forsythia (Forsythia intermedia 'Variegata') should receive full sunlight for at least 4-6 hours each day, preferably in the mornings. To ensure your plant grows strongest, it is ideal to provide as much sunlight as possible throughout the day. However, when temperatures become high, afternoon sunlight can be too intense, so providing some afternoon shade may be beneficial to protect your Border Forsythia."
+                },
+                {
+                    "id": 12208,
+                    "type": "pruning",
+                    "description": "The best time to prune border forsythia (Forsythia intermedia 'Variegata') is in late winter or early spring, after any flowers have faded. Prune away any old, thin stems that are not flowering and shorten or remove branches if necessary. About 1/3 of the old growth should be removed in order to encourage new, healthy growth. Be sure to use clean, sharp pruning shears and make sure to prune the stems to a healthy bud or leaf."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2996,
+                "common_name": "forsythia",
+                "scientific_name": [
+                    "Forsythia 'Meadowlark'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "7.00 to 10.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 7,
+                    "max_value": 10,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2996&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2996&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "2"
+                },
+                "volume_water_requirement": [],
+                "watering_period": "morning",
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "March",
+                    "April",
+                    "February",
+                    "December",
+                    "January",
+                    "February",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Moderate",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2996&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": false,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Forsythia 'Meadowlark' is an amazing plant that will make any yard stand out. It's a beautiful yellow flowering shrub with climbing vines that will cascade down sides of walls and containers. Each branch is covered in abundant, bright yellow blooms in early spring and gives an eye-catching display each year. Its small and upright form is perfect for smaller gardens, and its adaptable nature means it can tolerate a wide range of soil types. It is also very low maintenance and can usually thrive with little to no pruning. With its vibrant colors and long lasting blooms, its recognition as an excellent garden ornamental plant is well deserved.",
+                "default_image": {
+                    "license": 451,
+                    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2996_forsythia_meadowlark/og/forsythia-aesthetic-branches-gold-lilac.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2996_forsythia_meadowlark/regular/forsythia-aesthetic-branches-gold-lilac.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2996_forsythia_meadowlark/medium/forsythia-aesthetic-branches-gold-lilac.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2996_forsythia_meadowlark/small/forsythia-aesthetic-branches-gold-lilac.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2996_forsythia_meadowlark/thumbnail/forsythia-aesthetic-branches-gold-lilac.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12209,
+                    "type": "watering",
+                    "description": "For Forsythia 'Meadowlark', water it deeply once a week with 1 to 2 inches of water. Make sure the soil is evenly moist throughout the root zone. Check the soil by sticking your finger in the soil up to the second knuckle and feel for moisture. If it feels dry, water deeply. Do not allow the soil to dry out completely between waterings. Forsythia 'Meadowlark' should be watered in the morning to help reduce the chance of fungal diseases from developing."
+                },
+                {
+                    "id": 12210,
+                    "type": "sunlight",
+                    "description": "Forsythia 'Meadowlark' grows best in full sunlight, and prefers at least 6 hours of direct sunlight per day. However, the plant can tolerate partial sun too. Although this plant enjoys lots of sunlight, it should also have a few hours of shade or indirect sunlight each day to prevent the leaves from scorching. On hot days in summer, it is advisable to provide morning sun and afternoon shade for best results."
+                },
+                {
+                    "id": 12211,
+                    "type": "pruning",
+                    "description": "Forsythia 'Meadowlark' should be pruned in early spring, before new growth begins. Pruning time will depend upon the climate of the area as bud break typically begins as early as late February in mild-winter areas and as late as April in colder climates.\n\nWhen pruning, make sure to remove no more than 1-third of the oldest branches each year. This will result in a healthier, more vigorous shrub. Begin pruning by removing any dead, dying, or diseased branches. Next, remove any branches that are crossing over each other. Finally, you can begin trimming back the branches to the desired shape. When finished, make sure the Forsythia is still a manageable size."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2997,
+                "common_name": "Korean forsythia",
+                "scientific_name": [
+                    "Forsythia ovata"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "Korea"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "4.00 to 5.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 4,
+                    "max_value": 5,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "4",
+                    "max": "7"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2997&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2997&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "February",
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2997&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "High",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": true,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Medium",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Amber yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": true,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Korean forsythia is one of the most impressive flowering shrubs, providing a stunning display of bright yellow blossoms in the springtime. Unlike other shrubs, it blooms for an extended period of time, sometimes more than a month. It is relatively undemanding and easy to manage, especially since it requires little pruning. Its vibrant flowers are highly attractive to birds and other pollinators. Not only is it an eye-catching ornamental, it also has a range of medicinal benefits, primarily treating respiratory and urinary tract infections. Indeed, Korean forsythia is an ideal choice for a stunning garden feature that packs a punch of beauty and medicinal value.",
+                "default_image": {
+                    "license": 451,
+                    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2997_forsythia_ovata/og/forsythia-gold-lilac-flower-blossom.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2997_forsythia_ovata/regular/forsythia-gold-lilac-flower-blossom.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2997_forsythia_ovata/medium/forsythia-gold-lilac-flower-blossom.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2997_forsythia_ovata/small/forsythia-gold-lilac-flower-blossom.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2997_forsythia_ovata/thumbnail/forsythia-gold-lilac-flower-blossom.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12212,
+                    "type": "watering",
+                    "description": "Korean forsythia (Forsythia ovata) should be watered regularly during the growing season, which typically lasts through the spring and summer months (March to September). It is important to keep the soil somewhat moist, as these plants do not tolerate overly-wet or overly-dry soils. During the warmer summer months, water approximately twice a week, allowing the top inch or so of soil to dry out between watering. During the cooler spring and autumn months, water about once a week or less depending on the conditions. Make sure to water the bases of the plant to promote healthy root growth."
+                },
+                {
+                    "id": 12213,
+                    "type": "sunlight",
+                    "description": "Korean Forsythia (Forsythia ovata) typically prefers to receive full sunlight, although it can tolerate partial shade. Planting in a location that receives full sunlight—at least 6 hours a day—will help ensure the Korean Forsythia blooms effectively. The light should ideally be dappled sun—direct but not too hot—in the morning or afternoon hours, since the southern exposure during the middle of the day can cause the flower buds burned or set back."
+                },
+                {
+                    "id": 12214,
+                    "type": "pruning",
+                    "description": "Korean forsythia (Forsythia ovata) is best pruned in the late winter months, just before it begins leafing out and blooming. Pruning should involve cutting out dead wood and shaping the shrub if needed. Any pruning cuts should be made right above a pair of leaves or a leaf node. Harder pruning should be limited to about 1-third of the size of the shrub. Be sure to remove any suckers from the base. It is not recommended to prune Korean forsythia earlier than late winter, as it may reduce flowering."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2998,
+                "common_name": "weeping forsythia",
+                "scientific_name": [
+                    "Forsythia suspensa"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "6.00 to 10.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 6,
+                    "max_value": 10,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2998&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2998&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": {
+                    "unit": "inches",
+                    "value": "2"
+                },
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "3-4",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "yellow"
+                        ]
+                    },
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "gray-brown",
+                            "brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "March",
+                    "April",
+                    "May"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2998&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": null,
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green",
+                    "yellow"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Weeping Forsythia (Forsythia suspensa) is a captivating ornamental shrub that is a favorite amongst many who appreciate its beauty. Its namesake is derived from a flowering variety of yellow blooms that hang gracefully from its branches. The gentle arch of its branches always looks fantastic in any landscape, providing an eye-catching display during spring and summer. The delicate weeping foliage of Forsythia suspensa trails softly over walls and rockeries in a captivating way, creating a delightful picture for your garden. Not only is it attractive, but it also has great resistance to cold, so thrives in a temperature range of -30 to 30 degrees Celsius. Weeping Forsythia is a fantastic addition to any home and is bound to bring hue and wonder.",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2998_forsythia_suspensa/og/16369115533_7a45ec728c_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2998_forsythia_suspensa/regular/16369115533_7a45ec728c_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2998_forsythia_suspensa/medium/16369115533_7a45ec728c_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2998_forsythia_suspensa/small/16369115533_7a45ec728c_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2998_forsythia_suspensa/thumbnail/16369115533_7a45ec728c_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12215,
+                    "type": "watering",
+                    "description": "Weeping forsythia (Forsythia suspensa) requires regular watering. It is drought-tolerant, so the soil should be kept moist but not soggy. Water this plant with 1-2 inches of water per week during the growing season. When the soil is dry to the touch, about 1 inch of water should be given. Apply water to the base of the plant and avoid getting the foliage wet. If the leaves start to yellow, the plant may be getting too much water. During the winter months, water less often, but do not let the soil dry out completely."
+                },
+                {
+                    "id": 12216,
+                    "type": "sunlight",
+                    "description": "Weeping forsythia (Forsythia suspensa,) is a deciduous plant that tolerates full sun. However, for best flowering, it needs at least 6 hours of direct sunlight daily. Early morning sun is best, especially during the blooming period, as cushioning afternoon sun can cause extra stress on this delicate plant. In areas with long, hot summers, afternoon sun can be harsh on weeping forsythia and some afternoon shade may be beneficial."
+                },
+                {
+                    "id": 12217,
+                    "type": "pruning",
+                    "description": "Weeping Forsythia (Forsythia suspensa) should be pruned in early spring, when the new growth begins to form on the stems. This will help to promote healthy growth and maintain the attractive, cascading shape of the plants. Minor pruning can be done every 1-2 years to remove any old, damaged, or diseased stems, while more significant pruning may be done every 3-5 years. When pruning, it is important to remove any branches that are crossing over 1 another, or growing too tightly together, to allow for good air flow and to keep the plant healthy. As well, thinning out any excessively long stems or those that are growing away from the desired form can help keep your Weeping Forsythia looking neat and attractive."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 2999,
+                "common_name": "greenstem forsythia",
+                "scientific_name": [
+                    "Forsythia viridissima 'Border Gem'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "0.75 to 1.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 0.75,
+                    "max_value": 1,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "5",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=2999&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2999&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April"
+                ],
+                "pruning_count": [],
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2999&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Low",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow-green",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Greenstem Forsythia is an amazing species of shrub. Growing to about 8 feet tall and 9 feet wide, it floods the landscape with waves of bright yellow-green foliage in the springtime. Its showy 3-inch-long, bright yellow flowers bloom before the foliage in early spring, adding a cheerful pop of color to the landscape. It prefers full sun but tolerates partial shade, and is perfect for anchoring the back of a border or as a specimen tree. It remains tidy and attractive year-round, and requires minimal care and attention. A great plant to add a splash of color to the garden, Greenstem Forsythia is an amazing shrub.",
+                "default_image": {
+                    "license": 451,
+                    "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_image/2999_forsythia_viridissima_border_gem/og/yellow-forsythia-spring-oliwkowate.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/2999_forsythia_viridissima_border_gem/regular/yellow-forsythia-spring-oliwkowate.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/2999_forsythia_viridissima_border_gem/medium/yellow-forsythia-spring-oliwkowate.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/2999_forsythia_viridissima_border_gem/small/yellow-forsythia-spring-oliwkowate.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/2999_forsythia_viridissima_border_gem/thumbnail/yellow-forsythia-spring-oliwkowate.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12218,
+                    "type": "watering",
+                    "description": "Greenstem Forsythia should be watered when its soil is dry to the touch. Depending on the time of year, it may need to be watered every 7-14 days. Make sure to water slowly and evenly, until the water runs out of the drainage holes of the pot. Avoid overhead watering, as this can lead to disease. In the summer months, you may need to water more often to keep the soil moist."
+                },
+                {
+                    "id": 12219,
+                    "type": "sunlight",
+                    "description": "Greenstem Forsythia (Forsythia viridissima 'Border Gem') needs full sunlight for best growth and bloom production. It should receive 6-8 hours of direct sunlight a day. This plant is hardy and performs best when exposed to full sun during the beginning of spring when it starts flowering. In early summer, however, it should receive partial shade to prevent scorching of the foliage and flowers when temperatures are at their peak."
+                },
+                {
+                    "id": 12220,
+                    "type": "pruning",
+                    "description": "Greenstem forsythia (Forsythia viridissima 'Border Gem') should be pruned in the late winter or early spring while it is still dormant. Pruning is done to maintain a desired size and shape as well as to promote an abundant and long blooming period. Begin by removing any dead or diseased branches, then thin out crowded branches. This will help increase air circulation and allow more light to reach the interior of the plant. Prune back young forsythia stems that have occurred in the previous season by about 1 third. This will help bring the plant back into shape. For mature forsythia that have stopped blooming, wait until after flowering has ended and then cut the stems back by up to 1 third. This will encourage new growth and more blooms."
+                }
+            ],
+            "faqs": []
+        },
+        {
+            "plant": {
+                "id": 3000,
+                "common_name": "greenstem forsythia",
+                "scientific_name": [
+                    "Forsythia viridissima 'Bronxensis'"
+                ],
+                "other_name": [],
+                "family": "Oleaceae",
+                "origin": [
+                    "China"
+                ],
+                "type": "Deciduous shrub",
+                "dimension": "0.75 to 1.00 feet",
+                "dimensions": {
+                    "type": null,
+                    "min_value": 0.75,
+                    "max_value": 1,
+                    "unit": "feet"
+                },
+                "cycle": "Perennial",
+                "attracts": [],
+                "propagation": [
+                    "Cutting",
+                    "Layering Propagation",
+                    "Grafting Propagation",
+                    "Division",
+                    "Seed Propagation"
+                ],
+                "hardiness": {
+                    "min": "6",
+                    "max": "8"
+                },
+                "hardiness_location": {
+                    "full_url": "https://perenual.com/api/hardiness-map?species_id=3000&size=og&key=sk-Omzp656896e0da90c3213",
+                    "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=3000&size=og&key=sk-Omzp656896e0da90c3213'></iframe>"
+                },
+                "watering": "Average",
+                "depth_water_requirement": [],
+                "volume_water_requirement": [],
+                "watering_period": null,
+                "watering_general_benchmark": {
+                    "value": "7-10",
+                    "unit": "days"
+                },
+                "plant_anatomy": [
+                    {
+                        "part": "flowers",
+                        "color": [
+                            "yellow"
+                        ]
+                    },
+                    {
+                        "part": "leaves",
+                        "color": [
+                            "green"
+                        ]
+                    },
+                    {
+                        "part": "stems",
+                        "color": [
+                            "gray-brown"
+                        ]
+                    }
+                ],
+                "sunlight": [
+                    "Full sun",
+                    "part shade"
+                ],
+                "pruning_month": [
+                    "February",
+                    "March",
+                    "April",
+                    "May",
+                    "July",
+                    "December",
+                    "January",
+                    "February",
+                    "May",
+                    "June",
+                    "July",
+                    "August"
+                ],
+                "pruning_count": {
+                    "amount": 2,
+                    "interval": "yearly"
+                },
+                "seeds": 0,
+                "maintenance": "Low",
+                "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=3000&key=sk-Omzp656896e0da90c3213",
+                "soil": [],
+                "growth_rate": "Low",
+                "drought_tolerant": true,
+                "salt_tolerant": false,
+                "thorny": false,
+                "invasive": false,
+                "tropical": false,
+                "indoor": false,
+                "care_level": "Moderate",
+                "pest_susceptibility": [],
+                "pest_susceptibility_api": "Coming Soon",
+                "flowers": true,
+                "flowering_season": null,
+                "flower_color": "Yellow",
+                "cones": false,
+                "fruits": false,
+                "edible_fruit": false,
+                "edible_fruit_taste_profile": "Coming Soon",
+                "fruit_nutritional_value": "Coming Soon",
+                "fruit_color": [],
+                "harvest_season": null,
+                "leaf": true,
+                "leaf_color": [
+                    "green"
+                ],
+                "edible_leaf": false,
+                "cuisine": false,
+                "medicinal": false,
+                "poisonous_to_humans": 0,
+                "poisonous_to_pets": 0,
+                "description": "Greenstem Forsythia (Forsythia viridissima 'Bronxensis') is an amazing plant species because of its unique beauty. With its dazzling bright yellow flowers that bloom throughout the spring and deep green foliage that looks stunning in the summertime, it's easy to see why people are so in love with this plant. It's perfect for adding color to landscapes, making it widely popular both commercially and in home gardens. The hardy and cold-tolerant nature of the Greenstem Forsythia makes it a great choice for areas with changeable climates, as well as for restricted spaces. Its striking blooms will add beauty and life to any garden!",
+                "default_image": {
+                    "license": 5,
+                    "license_name": "Attribution-ShareAlike License",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "original_url": "https://perenual.com/storage/species_image/3000_forsythia_viridissima_bronxensis/og/26170857033_214e4fbb27_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_image/3000_forsythia_viridissima_bronxensis/regular/26170857033_214e4fbb27_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_image/3000_forsythia_viridissima_bronxensis/medium/26170857033_214e4fbb27_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_image/3000_forsythia_viridissima_bronxensis/small/26170857033_214e4fbb27_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_image/3000_forsythia_viridissima_bronxensis/thumbnail/26170857033_214e4fbb27_b.jpg"
+                },
+                "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+            },
+            "careGuides": [
+                {
+                    "id": 12221,
+                    "type": "watering",
+                    "description": "The greenstem forsythia plant (Forsythia viridissima 'Bronxensis') should be watered regularly throughout the growing season, which typically lasts from late fall to early spring. The exact frequency will depend on local climate and soil conditions. Generally speaking, water the greenstem forsythia deeply once every 10 to 13 days in cooler weather and every 7 to 10 days in warmer weather. Make sure the soil is damp to the touch but not overly wet. Mulching around the base of the plant can help keep soil moisture consistent. During dry, hot weather, greenstem forsythia may appreciate 1 deep watering per week for optimal health."
+                },
+                {
+                    "id": 12222,
+                    "type": "sunlight",
+                    "description": "Greenstem forsythia (Forsythia viridissima 'Bronxensis') is a deciduous shrub with large, bright yellow flowers. It tolerates full sun to partial shade, although full sun is best for optimum flowering. It needs at least 6-8 hours of direct sunlight per day in order for it to grow and bloom properly. The best time for sunlight for this plant is 10am-4pm daily for optimum flowering. During late spring and early summer, the plant blossoms and needs an exposure to plenty of direct sunlight in order to thrive."
+                },
+                {
+                    "id": 12223,
+                    "type": "pruning",
+                    "description": "Greenstem forsythia should be pruned twice a year for optimal growth and shape. Prune in late winter just before new spring growth begins, and again in mid summer after flowers have faded. When pruning during winter, wait until after all the cold weather has passed. This will help reduce the potential of dieback from frost damage. Be sure to remove any deadwood first, as well as any overly-long branches that may have grown beyond the desired shape of the plant. When pruning in mid-summer, conservatively trim back only the spent flower heads, and avoid shearing the plant. Shearing will decrease the width and density of the entire shrub. New flowering branches should only be cut back when absolutely necessary, such as when a branch is growing too tall. Make sure to leave at least a few inches between new cuts and previous cuts. This will help promote branching and increase the density of the shrub."
+                }
+            ],
+            "faqs": []
+        }
+    ],
+    "standAloneFaqs": [
+        {
+            "id": 11,
+            "question": "Do shade growing plants need any Sunlight?",
+            "answer": "Shade growing plants do need sunlight, although they require less than other plants. They need some direct sunlight each morning to help them photosynthesize and grow properly. Also, indirect sunlight throughout the day helps them stay healthy. Shade growing plants will benefit from the sunshine, but if they get too much or too little, then they can suffer the consequences. It's important to pay attention to the needs of your plants so that you can provide them with the proper light for optimal growth.",
+            "tags": [
+                "shade",
+                "sunlight",
+                "plant",
+                "exposure",
+                "half sun"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_11lvhD6435fb7b5c627/medium.jpg"
+            }
+        },
+        {
+            "id": 12,
+            "question": "How often should you water indoor plants?",
+            "answer": "Indoor plants should be watered when the soil feels dry to a depth of about two inches, usually about once a week. A helpful technique to determine your plants' watering needs is to feel the soil before and after watering to get a sense of how long it takes to dry out. An important note to remember is that some plants require less water than others, and it's best to research the specific needs of your individual plants. Likewise, if your home is very dry, you might need to water more often as the lack of moisture can stress the plants and lead to problems like brown leaves and wilted stems.",
+            "tags": [
+                "water willow",
+                "water arum",
+                "water birch",
+                "indoor",
+                "water"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_12efgB6435fb7bf140d/medium.jpg"
+            }
+        },
+        {
+            "id": 13,
+            "question": "Can my monstera plant get root rot?",
+            "answer": "Yes, a plant can get root rot. Root rot is a fungal disease that can be caused by over-watering, poor soil drainage, or high humidity levels in the air. Signs of root rot include yellowing leaves, wilting and stunted growth, and damaged or browning root systems. Sometimes it is difficult to detect root rot until the plant is removed from the soil, as the problems are mainly below the soil surface. Treating root rot usually involves removing the affected parts of the plant and replanting the unaffected ones.",
+            "tags": [
+                "root rot",
+                "disease",
+                "pest",
+                "monstera",
+                "overwater"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_13Y7nX6435fb7c71c37/medium.jpg"
+            }
+        },
+        {
+            "id": 14,
+            "question": "Can I put my Monstera outside in summer?",
+            "answer": "No, you should not put your Monstera outside in summer. Monstera plants need warm, humid air to thrive, and direct sunlight can scorch their leaves. Instead, put your Monstera in a bright, sunny spot with indirect light, making sure the sun never directly hits the leaves. During the summer, keep your Monstera's soil damp and mist it occasionally to keep the leaves hydrated. At nighttime, keep the temperature around 16 - 21°C (60 - 70°F). You can definitely take your Monstera outdoors for short periods of time, just make sure to bring it back in if it starts to get too hot.",
+            "tags": [
+                "Monstera",
+                "summer",
+                "sunlight",
+                "outdoor",
+                "outside"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_14XFeu6435fb7e04870/medium.jpg"
+            }
+        },
+        {
+            "id": 15,
+            "question": "What happens if my monstera plant gets too cold?",
+            "answer": "If your monstera plant gets too cold, it will become vulnerable to pests, disease, or other damage. Cold temperatures can damage the leaves of the plant, causing them to become spotted or limp. The roots of monstera plants may also suffer in cold temperatures, leading to root rot or other diseases. Belonging to the tropical family, monsteras are used to warm environments and do not do well in cold temperatures, so it is important to ensure your plant is kept in conditions that suit their needs.",
+            "tags": [
+                "monstera",
+                "winter",
+                "cold",
+                "issue",
+                "freezing"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_15rKBF6435fb7eb0986/medium.jpg"
+            }
+        },
+        {
+            "id": 17,
+            "question": "Is it possible to grow a vegetable garden in a small space?",
+            "answer": "Yes, it is possible to grow a vegetable garden in a small space. Gardening in a small space can be as simple as growing a few containerized plants in pots and raised beds, or as elaborate as vertically stacking planters, hanging pouches, and hanging baskets on a wall, railing, or fence. Regardless of the size of the space you are working with, some simple techniques such as companion planting, organic fertilizers, and water conservation can help you get the most out of your small vegetable garden.",
+            "tags": [
+                "garden",
+                "vegetables",
+                "plants",
+                "grow",
+                "small space"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_17mIas6435fb7fd8790/medium.jpg"
+            }
+        },
+        {
+            "id": 18,
+            "question": "Is peppermint herb green good for digestion?",
+            "answer": "Peppermint herb is indeed beneficial for digestion. The flavonoids in the herb support digestion by reducing inflammation in the digestive track, aiding in digestion and relieving indigestion, heartburn, and even the symptoms of irritable bowel syndrome. Additionally, peppermint is naturally rich in menthol, which helps to relax the muscles of the stomach, aiding in the digestion of food. Peppermint herb can be consumed in a variety of forms, such as teas, tinctures and capsules, as well as by adding the herb to food or directly to water or tea.",
+            "tags": [
+                "peppermint",
+                "herb",
+                "green",
+                "mint",
+                "plant"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 19,
+            "question": "Should peppermint herb green be consumed daily?",
+            "answer": "No, peppermint herb green should not be consumed daily. This is because it contains high levels of menthol, which can be toxic if taken in large doses. Additionally, consuming large amounts of peppermint herb green could interfere with the absorption of essential minerals and vitamins, potentially causing vitamin deficiencies. For these reasons, it is best to consult with a doctor before incorporating peppermint herb green into your daily diet.",
+            "tags": [
+                "peppermint",
+                "mint",
+                "health",
+                "plant",
+                "herb"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_19PFX86435fb81136ae/medium.jpg"
+            }
+        },
+        {
+            "id": 22,
+            "question": "Is watermelon a good source of hydration?",
+            "answer": "Yes, watermelon is a great source of hydration. It is about 92% water and rich in electrolytes for hydration. It is also an excellent source of vitamins A, C, and B-6, as well as potassium. The electrolytes and water content of watermelon can help replace lost fluid and electrolytes, making it a great post-exercise snack. Watermelon is also low in calories, so it can be a great way to rehydrate without over-consuming calories.",
+            "tags": [
+                "watermelon",
+                "summer food",
+                "hydration",
+                "healthy eating",
+                "plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_22SBDw6435fb830145c/medium.jpg"
+            }
+        },
+        {
+            "id": 23,
+            "question": "Are watermelons good for weight loss?",
+            "answer": "Yes, watermelons can be a great food for weight loss. Watermelon is low in calories and rich in fiber making it a great snack to keep you feeling full and help you to avoid overeating. Additionally, watermelon is rich in essential vitamins and minerals including vitamin C, potassium and magnesium, as well as antioxidants which help to support overall health and wellness. Eating watermelon can help you to stay hydrated and can give you the required energy for a healthier lifestyle.",
+            "tags": [
+                "watermelon",
+                "plant",
+                "weightloss",
+                "summer food",
+                "fruit"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_23LmYV6435fb8416eca/medium.jpg"
+            }
+        },
+        {
+            "id": 25,
+            "question": "Should watermelons be refrigerated before eating?",
+            "answer": "Yes, it is recommended that watermelons be refrigerated before eating. Not only will refrigerating the fruit make it taste better, but it will also help preserve it for a long period of time. Refrigerating the watermelon will help keep it fresh and crisp, and make it more enjoyable to eat. It is also important to store any leftover watermelon in the refrigerator so that it does not spoil.",
+            "tags": [
+                "watermelon",
+                "healthyeating",
+                "summerfood",
+                "fruit",
+                "plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_25ZFZq6435fb85479c4/medium.jpg"
+            }
+        },
+        {
+            "id": 30,
+            "question": "Are peace lily plants toxic to pets?",
+            "answer": "Yes, peace lily plants are toxic to pets. Both cats and dogs can suffer from vomiting, drooling, and difficulty swallowing if they ingest any part of the peace lily plant. In severe cases, pets may also experience difficulty breathing or an increased heart rate due to the ingestion of the poisonous plant. If you believe your pet has ingested any part of the Peace Lily, it is advisable to contact a vet immediately.",
+            "tags": [
+                "peace lily",
+                "plant",
+                "nontoxicplant",
+                "pets",
+                "flower",
+                "lily"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_30IGsU6435fb86340dd/medium.jpg"
+            }
+        },
+        {
+            "id": 31,
+            "question": "Can Monstera deliciosa live in water?",
+            "answer": "No, Monstera deliciosa is not a water plant and cannot live in water. This vine prefers warm, semi-shaded areas with moist, well-draining soils. It is sensitive to overwatering, so provide a large pot with well-drained soil, and water only when the top 2 inches of soil are dry. The Monstera plant also likes to climb, so make sure to provide it with plenty of support.",
+            "tags": [
+                "Monstera",
+                "water",
+                "habitat",
+                "living",
+                "Swiss Cheese",
+                "Deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_317oNB6435fb8788a9d/medium.jpg"
+            }
+        },
+        {
+            "id": 32,
+            "question": "Do monstera Deliciosa have fruits?",
+            "answer": "Yes, Monstera Deliciosa plants produce edible fruits commonly referred to as Monstera Fruits, which are also called Split-Leaf Philodendrons. These fruit have a tropical flavor similar to a combination of banana, pineapple, and mango, with a creamy texture. The fruits can be round or oblong, each ranging in size from 2-6 inches. They start off green and mature to a yellowish color.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Fruit",
+                "Bread fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 45,
+                "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                "original_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_32ejry6435fb87e5625/medium.jpg"
+            }
+        },
+        {
+            "id": 33,
+            "question": "Are Monstera Deliciosa fruit edible?",
+            "answer": "Yes, Monstera Deliciosa fruit is edible and is quite delicious. The fruits are often compared to the taste of pineapple, papaya, and banana. When the fruit is fully ripe, it is best to consume immediately, as the flavor quickly deteriorates due to its high sugar content. The green fruit can be boiled, baked, fried, or eaten raw. The taste of the flesh can vary from sour to sweet, depending on the variety of the fruit. Be sure to consume at least the ripe yellow parts of the fruit, as the green areas tend to be a bit bitter.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Bread fruit",
+                "Fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 45,
+                "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                "original_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_33S7BN6435fb89eeb25/medium.jpg"
+            }
+        },
+        {
+            "id": 34,
+            "question": "Are Monstera Deliciosa fruits healthy?",
+            "answer": "Yes, Monstera Deliciosa fruits are healthy. They are a good source of vitamins and minerals, including vitamins A and C which help boost our immunity and support healthy skin, as well as fiber to keep our digestive system in check. These fruits are low in calories and contain zero cholesterol and saturated fats, making them a great addition to any vegetarian or vegan diet. Additionally, Monstera Deliciosa fruits contain compounds known as saponins, which have been shown to have antioxidant and anti-inflammatory effects, helping to protect our cells from oxidative damage.",
+            "tags": [
+                "Monstera",
+                "Deliciosa",
+                "Bread fruit",
+                "Fruit",
+                "Fruit salad"
+            ],
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_34VCsF6435fb8d3cc2b/medium.jpg"
+            }
+        },
+        {
+            "id": 35,
+            "question": "Does Monstera need a lot of sunlight?",
+            "answer": "No, Monstera does not need a lot of sunlight to thrive. In fact, too much direct sunlight can cause the leaves to burn. Instead, Monstera prefers to be positioned in a spot where it gets indirect, filtered light. When growing indoors, place the plant near a window that provides plenty of light but does not expose it to intense, direct sunlight. Providing the plant with a few hours of indirect sunlight a day is ideal for keeping it happy and healthy.",
+            "tags": [
+                "Monstera",
+                "Swiss Cheese",
+                "Sunlight",
+                "Sun",
+                "deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_35BfSh6435fb8e451f2/medium.jpg"
+            }
+        },
+        {
+            "id": 36,
+            "question": "Is a moss pole required for my Monstera?",
+            "answer": "A moss pole is not strictly required for a Monstera plant as it is a climber and can cling to things by itself. However, if you do want to train your Monstera to grow up a moss pole it can be beneficial, as it helps guide the growth and allows you to control the direction of your Monstera's leaves. It's also important to make sure your Monstera is getting the proper support it needs and a moss pole can provide that.",
+            "tags": [
+                "moss",
+                "pole",
+                "monstera",
+                "deliciosa",
+                "swiss cheese"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_36Yjse6435fb96b9d6e/medium.jpg"
+            }
+        },
+        {
+            "id": 37,
+            "question": "Can monstera be propagated from a stem cutting?",
+            "answer": "Yes, monstera can be propagated from a stem cutting. This is a relatively straightforward process in which a healthy stem cutting is taken from a mature monstera and placed in moist soil. The soil should be kept moist in a warm, humid location with bright, indirect light. Once the roots begin to form, the cutting can be transplanted into a separate pot for continued growth. Be sure to protect the new cutting from extreme temperatures, excessive direct sunlight, and overwatering.",
+            "tags": [
+                "Monstera",
+                "Cutting",
+                "propagating",
+                "swiss cheese",
+                "deliciosa"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_37kRyw6435fb975acdd/medium.jpg"
+            }
+        },
+        {
+            "id": 39,
+            "question": "Is the spider plant easy to care for?",
+            "answer": "Yes, spider plants are very easy to care for. They are know for being a perfect plant for beginner plant parents. They grow well and thrive in bright, indirect areas as well as low-light conditions. They require minimal maintenance with regular watering and occasional pruning or division for larger and fuller mats of foliage. Spider plants are forgiving and are quite drought-resistant, so it's difficult to over-water them. Adding fertilizer once a month during the growing season will help them to thrive even more.",
+            "tags": [
+                "spider plant",
+                "house plant",
+                "indoor plant",
+                "house decor plant",
+                "plant"
+            ],
+            "default_image": {
+                "license": 3,
+                "license_name": null,
+                "license_url": null,
+                "original_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_39yyB064043ad27a29d/medium.jpg"
+            }
+        },
+        {
+            "id": 40,
+            "question": "Are spider plants known to improve indoor air quality?",
+            "answer": "Yes, spider plants are known to be one of the most effective houseplants at removing common air pollutants. Spider plants absorb gaseous formaldehyde, carbon monoxide, and xylene from indoor air and convert it into oxygen. They also convert carbon dioxide into oxygen during the day, helping to freshen the air in your home or office. Spider plants also help to reduce indoor humidity levels. They are an excellent choice for improving indoor air quality.",
+            "tags": [
+                "spider plant",
+                "indoor plant",
+                "plant",
+                "homedecor plant",
+                "airpurifing plant"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 41,
+            "question": "Can spider plants grow well in low light conditions?",
+            "answer": "Yes, spider plants are a very easy to care for houseplant that actually prefers a low light condition. They will usually thrive in a bright indirect light area of the home but can easily adapt to lower light conditions. Spider plants are very resilient and can even withstand a few weeks of low light levels before the plants start to suffer.",
+            "tags": [
+                "spider plant",
+                "indoor plant",
+                "plant",
+                "housedecor plant",
+                "house plant"
+            ],
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_41VSMS64043ad3bc1bc/medium.jpg"
+            }
+        },
+        {
+            "id": 42,
+            "question": "Do Snake Plants have a long lifespan?",
+            "answer": "Yes, snake plants (also known as mother-in-law's tongue) have a long lifespan. They can live for several years, up to 10-15 years if given proper care. Snake plants are very hardy houseplants, needing minimal attention and able to tolerate a wide range of growing conditions. They are also drought tolerant, making them relatively low maintenance plants. With proper care and good conditions, the lifespan of a snake plant can easily be extended to over 20 years.",
+            "tags": [
+                "snakeplant",
+                "indoor plant",
+                "house plant",
+                "homedecor",
+                "plant care"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 43,
+            "question": "Can Snake Plants grow in low light conditions?",
+            "answer": "Yes, Snake Plants are very tolerant to low light environments and they can survive in almost any kind of light, including fluorescent lighting. They can even survive in areas with no natural light at all. Snake Plants are extremely hardy and can handle a wide range of light conditions, including both direct and indirect light. However, the plants may not thrive or grow as lush or as quickly as plants in brighter light, but they will still survive.",
+            "tags": [
+                "snake plant",
+                "indoor plant",
+                "house decor",
+                "plants",
+                "plant care"
+            ],
+            "default_image": null
+        },
+        {
+            "id": 44,
+            "question": "Should Snake Plants be watered frequently?",
+            "answer": "No, snake plants should not be watered frequently. Snake plants are hardy, drought-tolerant plants, and can withstand dry periods of time. They thrive on limited water, so over-watering can cause their roots to rot. Typically, it is recommended to water snake plants every two to four weeks, depending upon the season. Be sure to always check soil moisture before adding more water, as too much water can cause the leaves to turn yellow or brown.",
+            "tags": [
+                "snake plant",
+                "plant care",
+                "plants",
+                "home decor",
+                "indoor plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_44hAkb6435fb9cc27a9/medium.jpg"
+            }
+        },
+        {
+            "id": 45,
+            "question": "Could Snake Plants be used as natural air purifiers?",
+            "answer": "Yes, snake plants can be used as natural air purifiers. These plants are highly efficient at removing a range of toxins from the air, including volatile organic compounds such as formaldehyde, trichloroethylene, xylene, and benzene. Studies have shown that snake plants can reduce indoor air pollutants by as much as 40 to 60 percent when placed strategically around the home. Furthermore, these plants are low-maintenance, easy to care for, and virtually indestructible, making them an ideal choice for those looking to clean up their air quality without spending much time or money.",
+            "tags": [
+                "snake plant",
+                "indoor plant",
+                "house decor",
+                "plants",
+                "houseplant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_45tWzG6435fb9d386ff/medium.jpg"
+            }
+        },
+        {
+            "id": 46,
+            "question": "Is the Peony popular flower in Canada? ",
+            "answer": "Yes, the peony is a popular flower in Canada. It is highly prized for its showy blooms and long-lasting beauty. Peonies have been cultivated in Canada for centuries, and their popularity is due in part to their long-lasting blooms and hardiness in colder temperatures. Peonies are a popular choice in Canadian gardens, and flower arrangements. They are also used in bouquets and centerpieces, where their stunning colors really shine.",
+            "tags": [
+                "peony",
+                "canada",
+                "flower",
+                "plant",
+                "landscapeplant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_46JuPj6435fb9d9af2a/medium.jpg"
+            }
+        },
+        {
+            "id": 47,
+            "question": "Are Peonies fragrant? ",
+            "answer": "Yes, peonies are quite fragrant. Depending on the variety of peony, the scent can be described as sweet, floral, and citrusy. Some of the most popular and aromatic varieties of peony include 'Pillow Talk', 'Fairy Tale', and the 'Duchess De Nemours'. Peonies are often used in floral arrangements and can even be grown in your garden for a fresh, summery scent.",
+            "tags": [
+                "peony",
+                "fragrant",
+                "flower",
+                "plant",
+                "landscape plant"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_47MsPa6435fb9e04928/medium.jpg"
+            }
+        },
+        {
+            "id": 48,
+            "question": "Can Peonies be grown in partial shade? ",
+            "answer": "Yes, peonies can be grown in partial shade. While they require at least 6 hours of sunlight per day during the first half of the growing season, the second half is best if the plants can receive a few hours of shade. As long as the area is not completely shaded, the peonies should do well. These plants are also hardy, so they can generally thrive in a variety of locations.",
+            "tags": [
+                "peony",
+                "flower",
+                "plant",
+                "partial shade",
+                "peonies"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_48JQKs6435fb9e97af5/medium.jpg"
+            }
+        },
+        {
+            "id": 49,
+            "question": "Do Peonies require well-drained soil? ",
+            "answer": "Yes, peonies do require well-drained soil in order to grow and flourish. Planting them in heavy clay soil can cause the roots to rot, as the soil will stay wet for too long. To ensure good drainage and aeration, it is recommended that the soil is amended with organic matter like compost or peat moss. The soil should also be slightly acidic, with a pH of 6.0-7.0. Additionally, peonies may need to be watered more often during the summer, as they are prone to wilt in hot temperatures.",
+            "tags": [
+                "peony",
+                "soil",
+                "plant",
+                "flower",
+                "fragrance"
+            ],
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/og.jpg",
+                "regular_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/regular.jpg",
+                "medium_url": "https://perenual.com/storage/article_faq/faq_49aOWU6435fb9eeee66/medium.jpg"
+            }
+        }
+    ]
+}
