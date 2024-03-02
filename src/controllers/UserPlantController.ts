@@ -31,6 +31,7 @@ const UserPlantController = {
 
       //if data is missing, return 404
       if (!plantId || !parsedPlantId || !userId) {
+        console.log('here')
         return res.status(404).json('Not found')
       }
 

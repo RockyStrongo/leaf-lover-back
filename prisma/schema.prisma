@@ -119,4 +119,5 @@ model Action {
   userPlantId  Int        @map("user_plant_id")
   type         ActionType @relation(fields: [actionTypeId], references: [id])
   actionTypeId Int        @map("action_type_id")
+  active       Boolean    @default(true)
 }

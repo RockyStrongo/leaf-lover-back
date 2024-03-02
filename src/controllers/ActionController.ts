@@ -220,6 +220,7 @@ export const ActionController = {
           userId: userId,
         },
         done: false,
+        active: true,
       },
       include: {
         userPlant: {
