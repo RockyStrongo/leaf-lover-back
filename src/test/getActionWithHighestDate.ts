@@ -10,6 +10,7 @@ describe('getActionWithHighestDate function', () => {
         doneDate: null,
         actionTypeId: 1,
         userPlantId: 1,
+        active: true,
       },
       {
         id: 2,
@@ -18,6 +19,7 @@ describe('getActionWithHighestDate function', () => {
         doneDate: null,
         actionTypeId: 1,
         userPlantId: 1,
+        active: true,
       },
       {
         id: 3,
@@ -26,6 +28,7 @@ describe('getActionWithHighestDate function', () => {
         doneDate: null,
         actionTypeId: 1,
         userPlantId: 1,
+        active: true,
       },
     ])
     const expected = {
@@ -35,6 +38,7 @@ describe('getActionWithHighestDate function', () => {
       doneDate: null,
       actionTypeId: 1,
       userPlantId: 1,
+      active: true,
     }
     expect(result).toEqual(expected)
   })

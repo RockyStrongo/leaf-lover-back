@@ -44,7 +44,9 @@ describe('calculateUserPlantActions', () => {
 
     const actionToCreate = ActionController.calculateUserPlantActions(input)
     expect(actionToCreate).not.toBe(null)
-    expect(actionToCreate?.date?.toISOString().split('T')[0]).toEqual(expected.date.toISOString().split('T')[0]);
+    expect(actionToCreate?.date?.toISOString().split('T')[0]).toEqual(
+      expected.date.toISOString().split('T')[0]
+    )
     expect(actionToCreate?.date).toBeInstanceOf(Date)
     expect(actionToCreate?.userPlantId).toBe(6)
   })
@@ -87,6 +89,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: null,
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
       ],
     }
@@ -136,6 +139,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: threeDaysAgo,
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
       ],
     }
@@ -196,6 +200,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: fourDaysAgo,
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
         {
           id: 2,
@@ -204,6 +209,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: null,
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
       ],
     }
@@ -252,6 +258,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: fourDaysAgo,
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
         {
           id: 2,
@@ -260,6 +267,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: threeDaysAgo,
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
       ],
     }
@@ -319,6 +327,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: new Date(),
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
         {
           id: 2,
@@ -327,6 +336,7 @@ describe('calculateUserPlantActions', () => {
           doneDate: new Date(new Date().setDate(new Date().getDate() - 4)),
           userPlantId: 6,
           actionTypeId: 1,
+          active: true,
         },
       ],
     }
