@@ -7,6 +7,7 @@ import cors from 'cors'
 import errorHandler from './middleware/errorHandler'
 import notFound from './middleware/notFound'
 import bodyParser from 'body-parser'
+import session from 'express-session'
 
 dotenv.config()
 
@@ -31,6 +32,9 @@ app.use(express.json())
 const cookieParser = require('cookie-parser')
 
 const COOKIE_SECRET = process.env.COOKIE_SECRET
+if (!COOKIE_SECRET) {
+  throw new Error('COOKIE_SECRET environment variable missing')
+}
 
 const frontDomain = process.env.FRONT_DOMAIN_URL
 if (!frontDomain) {
@@ -46,6 +50,13 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 
 app.use(cors(corsOptions))
+
+// Configure express-session middleware
+app.use(session({
+  secret: COOKIE_SECRET,
+  resave: false,
+  saveUninitialized: false
+}));
 
 app.use(router)
 app.use(errorHandler)

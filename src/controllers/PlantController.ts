@@ -73,6 +73,7 @@ const PlantController = {
   },
   async getPlants(req: Request, res: Response, next: NextFunction) {
     try {
+      console.log(req.session.csrf);
       const DEFAULT_PAGE = 1
       const DEFAULT_PER_PAGE = 30
 

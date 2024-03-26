@@ -5,9 +5,11 @@ import { NextFunction, Request, Response } from 'express'
 import FaqController from '../controllers/FaqController'
 import { AuthController } from '../controllers/AuthController'
 import authMiddleware from '../middleware/authMiddleware'
-import { UserController } from '../controllers/UserController';
+import { UserController } from '../controllers/UserController'
 import { ActionController } from '../controllers/ActionController'
 import UserPlantController from '../controllers/UserPlantController'
+import CsrfTokenController from '../controllers/CsrfTokenController'
+import verifyCsrfToken from '../middleware/verifyCsrfToken'
 
 const apiVersion = process.env.API_VERSION ?? 'v1'
 
@@ -27,6 +29,7 @@ router.post(
 router.post(
   `/api/${apiVersion}/users/login`,
   AuthController.validateLogin,
+  verifyCsrfToken,
   AuthController.login
 )
 router.get(
@@ -35,8 +38,18 @@ router.get(
 )
 router.post(`/api/${apiVersion}/users/logout`, AuthController.logout)
 
-router.post(`/api/${apiVersion}/users/forgot-password`, AuthController.forgotPassword)
-router.post(`/api/${apiVersion}/users/reset-password`, AuthController.validateResetPassword, AuthController.resetPassword)
+router.post(
+  `/api/${apiVersion}/users/forgot-password`,
+  AuthController.forgotPassword
+)
+router.post(
+  `/api/${apiVersion}/users/reset-password`,
+  AuthController.validateResetPassword,
+  AuthController.resetPassword
+)
+
+router.get(`/api/${apiVersion}/csrf`, CsrfTokenController.getCsrfToken)
+
 //protected routes
 router.patch(
   `/api/${apiVersion}/users`,
@@ -51,8 +64,8 @@ router.post(
   UserController.updatePassword
 )
 router.post(
-  `/api/${apiVersion}/users/resend-email-verification`, 
-  authMiddleware, 
+  `/api/${apiVersion}/users/resend-email-verification`,
+  authMiddleware,
   AuthController.sendMailVerification
 )
 router.get(
