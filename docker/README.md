@@ -2,7 +2,7 @@
 
 From the root folder:  
 
-`docker build -d -t leaf_lover_api . -f ./docker/Dockerfile`
+`docker build -t leaf_lover_api . -f ./docker/Dockerfile`
 
 ### **Run the container**
 
