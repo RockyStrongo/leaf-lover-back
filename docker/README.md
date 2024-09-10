@@ -6,4 +6,4 @@ From the root folder:
 
 ### **Run the container**
 
-`docker run -p 3000:3000 leaf_lover_api`
+`docker run -p 5000:5000 leaf_lover_api`
