@@ -27,7 +27,7 @@
     "jsonwebtoken": "^9.0.2",
     "nodemailer": "^6.9.8",
     "tiny-csrf": "^1.1.4",
-    "ts-node": "^10.9.2",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
