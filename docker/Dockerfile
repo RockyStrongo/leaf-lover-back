@@ -32,6 +32,7 @@ COPY --from=build /app/dist ./dist/
 COPY --from=build /app/prisma ./prisma
 COPY --from=build /app/src ./src
 COPY --from=build /app/node_modules/.prisma/client ./node_modules/.prisma/client
+COPY --from=build /app/tsconfig.json ./
 RUN npm install --production
 EXPOSE 5000
 CMD ["npm", "start"]
