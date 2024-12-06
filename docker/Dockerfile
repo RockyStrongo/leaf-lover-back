@@ -30,7 +30,7 @@ WORKDIR /app
 COPY --from=build /app/package*.json ./
 COPY --from=build /app/dist ./dist/
 COPY --from=build /app/prisma ./prisma
-COPY --from:build /app/src ./src
+COPY --from=build /app/src ./src
 COPY --from=build /app/node_modules/.prisma/client ./node_modules/.prisma/client
 RUN npm install --production
 EXPOSE 5000
